@@ -5,7 +5,7 @@
 
 
 
-  include ("../projects/frontpage.php");
+  include ("../projects/frontpage/frontpage.php");
   
 ?>
 
