@@ -5,7 +5,7 @@
 
 
 
-  include ("../projects/subscriptions.php");
+  include ("../projects/frontpage.php");
   
 ?>
 
