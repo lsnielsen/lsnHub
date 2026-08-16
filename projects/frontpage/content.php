@@ -21,7 +21,7 @@
         <div class="card-button">Åbn Program →</div>
       </a>
 
-      <a href="tilbud/index.php" class="app-card">
+      <a href="../controller/discounts.php" class="app-card">
         <div>
           <div class="card-icon">🏷️</div>
           <div class="card-title">Tilbud & Rabatter</div>
@@ -32,15 +32,15 @@
         <div class="card-button">Åbn Program →</div>
       </a>
 
-      <div class="app-card disabled">
+      <a href="../controller/news.php" class="app-card">
         <div>
           <div class="card-icon">➕</div>
-          <div class="card-title">Nyt Projekt</div>
+          <div class="card-title">Nyheder</div>
           <div class="card-description">
-            Pladsholder til dit næste program eller værktøj. Kan nemt tilføjes direkte i HTML-koden.
+	    De nyeste nyheder og brændpunkter fra hele verden
           </div>
         </div>
-        <div class="card-button">Kommer snart</div>
+        <div class="card-button">Åbn Program →</div>
       </div>
 
     </div>

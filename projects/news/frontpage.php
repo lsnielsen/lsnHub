@@ -1,0 +1,252 @@
+<?php
+/**
+ * Global Nyhedsoversigt
+ * Backend: PHP 7.4+ / PHP 8.x
+ * Frontend: HTML5, CSS3, Minimalistisk Vanilla JavaScript
+ */
+
+require_once __DIR__ . '/src/NewsService.php';
+$feedsConfig = require __DIR__ . '/src/feeds.php';
+
+$newsService = new NewsService($feedsConfig, __DIR__ . '/cache', 180);
+
+// Filter parametre fra GET
+$selectedRegion = isset($_GET['region']) ? htmlspecialchars($_GET['region']) : 'all';
+$selectedLanguage = isset($_GET['lang']) ? htmlspecialchars($_GET['lang']) : 'all';
+$selectedCategory = isset($_GET['cat']) ? htmlspecialchars($_GET['cat']) : 'all';
+$searchQuery = isset($_GET['q']) ? htmlspecialchars($_GET['q']) : '';
+
+$filters = [
+    'region' => $selectedRegion,
+    'language' => $selectedLanguage,
+    'category' => $selectedCategory,
+    'search' => $searchQuery,
+    'limit' => 80
+];
+
+$articles = $newsService->getArticles($filters);
+$totalArticles = count($articles);
+
+// Definition af regioner og sprog
+$regionsList = [
+    'all' => '🌍 Alle Regioner',
+    'danmark' => '🇩🇰 Danmark',
+    'norden' => '🇸🇪 Norden (Sverige)',
+    'europa' => '🇪🇺 Europa & EU',
+    'usa' => '🇺🇸 USA & Nordamerika',
+    'latinamerika' => '🌎 Latinamerika & Brasilien',
+    'asien' => '🇯🇵 Asien (Japan / Kina)',
+    'afrika' => '🌍 Afrika',
+    'globalt' => '🌐 Globalt Overblik'
+];
+
+$languagesList = [
+    'all' => 'Alle Sprog',
+    'da' => '🇩🇰 Dansk',
+    'en' => '🇬🇧 Engelsk',
+    'es' => '🇪🇸 Spansk',
+    'fr' => '🇫🇷 Fransk',
+    'sv' => '🇸🇪 Svensk',
+    'it' => '🇮🇹 Italiensk',
+    'nl' => '🇳🇱 Hollandsk',
+    'pt' => '🇧🇷 Portugisisk (Brasilien)'
+];
+?>
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Nyhedsoversigt | Verdensnyheder på 8 sprog</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Top Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="header-left">
+                <!-- User-mandated back button to frontpage.php -->
+                <a href="../controller/frontpage.php" class="btn-back" title="Tilbage til Forside">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="19" y1="12" x2="5" y2="12"></line>
+                        <polyline points="12 19 5 12 12 5"></polyline>
+                    </svg>
+                    <span>Tilbage til forside</span>
+                </a>
+                <div class="brand-title">
+                    <h1>Global <span>Nyhedsoversigt</span></h1>
+                    <span class="live-pill"><span class="pulse-dot"></span> Live Verdensnyheder</span>
+                </div>
+            </div>
+
+            <div class="header-right">
+                <div class="date-badge">
+                    <?php echo date('d. F Y'); ?> • Opdateres automatisk
+                </div>
+                <a href="index.php" class="btn-refresh" title="Genindlæs seneste nyheder">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+                    </svg>
+                    <span>Opdater</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <!-- Filter & Search Bar -->
+        <section class="controls-panel">
+            <form method="GET" action="index.php" class="filter-form" id="filterForm">
+                <!-- Search Input -->
+                <div class="search-box">
+                    <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                    </svg>
+                    <input 
+                        type="text" 
+                        name="q" 
+                        id="searchInput"
+                        placeholder="Søg i overskrifter, lande, kilder..." 
+                        value="<?php echo htmlspecialchars($searchQuery); ?>"
+                        autocomplete="off"
+                    >
+                    <?php if (!empty($searchQuery)): ?>
+                        <a href="index.php?region=<?php echo urlencode($selectedRegion); ?>&lang=<?php echo urlencode($selectedLanguage); ?>" class="clear-search">✕</a>
+                    <?php endif; ?>
+                </div>
+
+                <!-- Region Selector -->
+                <div class="select-group">
+                    <label for="regionSelect">Region:</label>
+                    <select name="region" id="regionSelect" onchange="this.form.submit()">
+                        <?php foreach ($regionsList as $key => $label): ?>
+                            <option value="<?php echo $key; ?>" <?php echo $selectedRegion === $key ? 'selected' : ''; ?>>
+                                <?php echo $label; ?>
+                            </option>
+                        <?php endforeach; ?>
+                    </select>
+                </div>
+
+                <!-- Language Selector -->
+                <div class="select-group">
+                    <label for="langSelect">Sprog:</label>
+                    <select name="lang" id="langSelect" onchange="this.form.submit()">
+                        <?php foreach ($languagesList as $code => $label): ?>
+                            <option value="<?php echo $code; ?>" <?php echo $selectedLanguage === $code ? 'selected' : ''; ?>>
+                                <?php echo $label; ?>
+                            </option>
+                        <?php endforeach; ?>
+                    </select>
+                </div>
+
+                <button type="submit" class="btn-submit">Filtrér</button>
+            </form>
+        </section>
+
+        <!-- Region Quick Filter Pills -->
+        <nav class="region-pills">
+            <?php foreach ($regionsList as $key => $label): ?>
+                <a href="index.php?region=<?php echo urlencode($key); ?>&lang=<?php echo urlencode($selectedLanguage); ?>&q=<?php echo urlencode($searchQuery); ?>" 
+                   class="pill <?php echo $selectedRegion === $key ? 'active' : ''; ?>">
+                    <?php echo $label; ?>
+                </a>
+            <?php endforeach; ?>
+        </nav>
+
+        <!-- Stats Bar -->
+        <div class="stats-bar">
+            <div class="stats-left">
+                Viser <strong><?php echo $totalArticles; ?></strong> seneste nyheder fra hele verden
+                <?php if ($selectedRegion !== 'all'): ?> • Region: <em><?php echo $regionsList[$selectedRegion] ?? $selectedRegion; ?></em><?php endif; ?>
+                <?php if ($selectedLanguage !== 'all'): ?> • Sprog: <em><?php echo $languagesList[$selectedLanguage] ?? $selectedLanguage; ?></em><?php endif; ?>
+            </div>
+            <div class="stats-right">
+                <span class="badge-source-count">20+ Verdensmedier (DR, BBC, El País, Le Monde, SVT, NOS m.fl.)</span>
+            </div>
+        </div>
+
+        <!-- News Feed Grid -->
+        <?php if ($totalArticles > 0): ?>
+            <div class="news-grid">
+                <?php foreach ($articles as $article): ?>
+                    <article class="news-card">
+                        <!-- Card Header / Meta Badges -->
+                        <div class="card-meta">
+                            <span class="badge-source">
+                                <span class="badge-flag"><?php echo htmlspecialchars($article['flag']); ?></span>
+                                <strong><?php echo htmlspecialchars($article['source_name']); ?></strong>
+                            </span>
+
+                            <div class="card-tags">
+                                <span class="tag-country"><?php echo htmlspecialchars($article['country']); ?></span>
+                                <span class="tag-lang"><?php echo strtoupper(htmlspecialchars($article['language'])); ?></span>
+                            </div>
+                        </div>
+
+                        <!-- Card Body -->
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a href="<?php echo htmlspecialchars($article['link']); ?>" target="_blank" rel="noopener noreferrer">
+                                    <?php echo htmlspecialchars($article['title']); ?>
+                                </a>
+                            </h2>
+
+                            <p class="card-summary">
+                                <?php echo htmlspecialchars($article['summary']); ?>
+                            </p>
+                        </div>
+
+                        <!-- Card Footer -->
+                        <div class="card-footer">
+                            <div class="card-time">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <polyline points="12 6 12 12 16 14"></polyline>
+                                </svg>
+                                <span><?php echo htmlspecialchars($article['formatted_time']); ?></span>
+                            </div>
+
+                            <!-- Direct link to full story -->
+                            <a href="<?php echo htmlspecialchars($article['link']); ?>" 
+                               class="btn-read-more" 
+                               target="_blank" 
+                               rel="noopener noreferrer" 
+                               title="Læs hele nyheden hos <?php echo htmlspecialchars($article['source_name']); ?>">
+                                <span>Læs hele nyheden</span>
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                    <polyline points="15 3 21 3 21 9"></polyline>
+                                    <line x1="10" y1="14" x2="21" y2="3"></line>
+                                </svg>
+                            </a>
+                        </div>
+                    </article>
+                <?php endforeach; ?>
+            </div>
+        <?php else: ?>
+            <div class="empty-state">
+                <div class="empty-icon">📰</div>
+                <h3>Ingen nyheder fundet med de valgte filtre</h3>
+                <p>Prøv at vælge "Alle Regioner" eller "Alle Sprog", eller ryd din søgetekst.</p>
+                <a href="index.php" class="btn-reset">Nulstil alle filtre</a>
+            </div>
+        <?php endif; ?>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <div class="footer-container">
+            <p><strong>Global Nyhedsoversigt</strong> – Opdateret automatisk fra officielle RSS-feeds fra hele kloden.</p>
+            <p class="footer-back-link">
+                <a href="../controller/frontpage.php">← Gå til Kontrolpanel / Forside (<code>../controller/frontpage.php</code>)</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
