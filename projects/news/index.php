@@ -70,8 +70,8 @@ $languagesList = [
     <header class="app-header">
         <div class="header-container">
             <div class="header-left">
-                <!-- User-mandated back button to frontpage.php -->
-                <a href="../controller/frontpage.php" class="btn-back" title="Tilbage til Forside">
+                <!-- User-mandated back button to news.php -->
+                <a href="../controller/news.php" class="btn-back" title="Tilbage til Forside">
                     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <line x1="19" y1="12" x2="5" y2="12"></line>
                         <polyline points="12 19 5 12 12 5"></polyline>
@@ -88,7 +88,7 @@ $languagesList = [
                 <div class="date-badge">
                     <?php echo date('d. F Y'); ?> • Opdateres automatisk
                 </div>
-                <a href="index.php" class="btn-refresh" title="Genindlæs seneste nyheder">
+                <a href="news.php" class="btn-refresh" title="Genindlæs seneste nyheder">
                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
                     </svg>
@@ -101,7 +101,7 @@ $languagesList = [
     <main class="main-container">
         <!-- Filter & Search Bar -->
         <section class="controls-panel">
-            <form method="GET" action="index.php" class="filter-form" id="filterForm">
+            <form method="GET" action="news.php" class="filter-form" id="filterForm">
                 <!-- Search Input -->
                 <div class="search-box">
                     <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -117,7 +117,7 @@ $languagesList = [
                         autocomplete="off"
                     >
                     <?php if (!empty($searchQuery)): ?>
-                        <a href="index.php?region=<?php echo urlencode($selectedRegion); ?>&lang=<?php echo urlencode($selectedLanguage); ?>" class="clear-search">✕</a>
+                        <a href="news.php?region=<?php echo urlencode($selectedRegion); ?>&lang=<?php echo urlencode($selectedLanguage); ?>" class="clear-search">✕</a>
                     <?php endif; ?>
                 </div>
 
@@ -152,7 +152,7 @@ $languagesList = [
         <!-- Region Quick Filter Pills -->
         <nav class="region-pills">
             <?php foreach ($regionsList as $key => $label): ?>
-                <a href="index.php?region=<?php echo urlencode($key); ?>&lang=<?php echo urlencode($selectedLanguage); ?>&q=<?php echo urlencode($searchQuery); ?>" 
+                <a href="news.php?region=<?php echo urlencode($key); ?>&lang=<?php echo urlencode($selectedLanguage); ?>&q=<?php echo urlencode($searchQuery); ?>" 
                    class="pill <?php echo $selectedRegion === $key ? 'active' : ''; ?>">
                     <?php echo $label; ?>
                 </a>
@@ -234,7 +234,7 @@ $languagesList = [
                 <div class="empty-icon">📰</div>
                 <h3>Ingen nyheder fundet med de valgte filtre</h3>
                 <p>Prøv at vælge "Alle Regioner" eller "Alle Sprog", eller ryd din søgetekst.</p>
-                <a href="index.php" class="btn-reset">Nulstil alle filtre</a>
+                <a href="news.php" class="btn-reset">Nulstil alle filtre</a>
             </div>
         <?php endif; ?>
     </main>
@@ -244,7 +244,7 @@ $languagesList = [
         <div class="footer-container">
             <p><strong>Global Nyhedsoversigt</strong> – Opdateret automatisk fra officielle RSS-feeds fra hele kloden.</p>
             <p class="footer-back-link">
-                <a href="../controller/frontpage.php">← Gå til Kontrolpanel / Forside (<code>../controller/frontpage.php</code>)</a>
+                <a href="../controller/news.php">← Gå til Kontrolpanel / Forside (<code>../controller/news.php</code>)</a>
             </p>
         </div>
     </footer>
