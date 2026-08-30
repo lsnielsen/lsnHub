@@ -2,6 +2,9 @@
 
 <?php
 
+// Tving browseren til at læse filen som UTF-8, så æ, ø og å virker
+header('Content-Type: text/html; charset=utf-8');
+
 // 1. STATISKE DATA FOR ABONNEMENTER
 $abonnementer = [
     [

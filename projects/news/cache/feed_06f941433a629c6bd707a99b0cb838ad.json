@@ -1,9 +1,9 @@
 [
     {
-        "id": "6c194f61febc95e0062d08022f9dd578",
-        "title": "Motorcyklist afgået ved døden i færdselsuheld",
+        "id": "258eb6848d7e8a2318c2e364ad15bbb5",
+        "title": "Mand fra minkbranchen dømt i sag om hvidvask af 7,7 millioner kroner",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/motorcyklist-afgaaet-ved-doeden-i-faerdselsuheld",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/mand-fra-minkbranchen-doemt-i-sag-om-hvidvask-af-7-7-millioner-kroner",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -20,40 +20,65 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-16T13:56:07+02:00",
+        "pub_date": "2026-08-21T16:02:32+02:00",
+        "formatted_time": "For 23 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "291841c2325de9f872bd993524609c2e",
+        "title": "Prins Harry og andre kendisser får millionregning efter tabt sag",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/prins-harry-og-andre-kendisser-faar-millionregning-efter-tabt-sag",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T15:33:53+02:00",
+        "formatted_time": "For 51 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "c6dce19209463fd3d90d3afd6c13aad0",
+        "title": "Stor interesse for at overnatte i shelters",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/stor-interesse-overnatte-i-shelters",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T14:52:05+02:00",
         "formatted_time": "For 1 time siden",
         "image_url": null
     },
     {
-        "id": "6aa65d0c5877499ee0916224d42cdcbb",
-        "title": "12 personer dræbt i busulykke i Ungarn",
-        "summary": "En turistbus er kørt i grøften på motorvejen M3 i Ungarn. 12 personer er døde og flere er såret.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/12-personer-draebt-i-busulykke-i-ungarn",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-16T08:15:55+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/2wckcifg\/20260816-083723-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "c016bcf683d3fdc2bbdd2551a2a25a78",
-        "title": "Spansk kampfly skyder drone ned i rumænsk luftrum",
+        "id": "cdaeee8d455f64015965210d64a15be4",
+        "title": "Fire unge mænd dømt for at fælde kæmpe træer ud over vej",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/spansk-kampfly-skyder-drone-ned-i-rumaensk-luftrum",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/fire-unge-maend-doemt-faelde-kaempe-traeer-ud-over-vej",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -70,15 +95,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-16T05:42:51+02:00",
-        "formatted_time": "For 9 timer siden",
+        "pub_date": "2026-08-21T14:35:20+02:00",
+        "formatted_time": "For 1 time siden",
         "image_url": null
     },
     {
-        "id": "81ba480f8f7cef370c2b78ee2194a279",
-        "title": "Mindst fem mennesker har mistet livet under oversvømmelser i Indiana",
+        "id": "494b0f1a764692efa2530a71ef944013",
+        "title": "Den norske konge er fortsat indlagt",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/mindst-fem-mennesker-har-mistet-livet-under-oversvoemmelser-i-indiana",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/den-norske-konge-er-fortsat-indlagt",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -95,15 +120,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-16T04:08:57+02:00",
-        "formatted_time": "For 11 timer siden",
+        "pub_date": "2026-08-21T13:42:33+02:00",
+        "formatted_time": "For 2 timer siden",
         "image_url": null
     },
     {
-        "id": "51a1a7a33d06db70b1bfdbc739379793",
-        "title": "Efter jordskælv: Colombias præsident beder Trump om toldpause",
+        "id": "29140f0db4f2c72c2a79cf7ca30e3ed7",
+        "title": "Ung mand sigtet for vanvidskørsel ved gymnasium",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/efter-jordskaelv-colombias-praesident-beder-trump-om-toldpause",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/ung-mand-sigtet-vanvidskoersel-ved-gymnasium",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -115,20 +140,20 @@
         "category": "top",
         "detected_countries": [
             {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-16T01:18:39+02:00",
-        "formatted_time": "For 14 timer siden",
+        "pub_date": "2026-08-21T13:20:31+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     },
     {
-        "id": "c1b08f5068c2515c304b7f7e003f3627",
-        "title": "47 døde efter jordskælv i Indonesien",
+        "id": "47a21167821f07b0b7625d07d91828dc",
+        "title": "Rekordmange passagerer skaber vækst hos Københavns Lufthavn",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/47-doede-efter-jordskaelv-i-indonesien",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/rekordmange-passagerer-skaber-vaekst-hos-koebenhavns-lufthavn",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -145,15 +170,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-15T21:21:56+02:00",
-        "formatted_time": "For 17 timer siden",
+        "pub_date": "2026-08-21T13:18:35+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     },
     {
-        "id": "27ce9b1c2eac866e36b58f24afa9a7dd",
-        "title": "Rosendahl Bach er klar til EM-finale i næstbedste tid",
+        "id": "e3486880e00c1d3f77dd3bbd36aaf700",
+        "title": "Politiet til stede ved skole i Hvidovre: Elever og ansatte forlod skolen efter luftvejsgener",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/sporten\/seneste-sport\/rosendahl-bach-er-klar-til-em-finale-i-naestbedste-tid",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/politiet-til-stede-ved-skole-i-hvidovre-elever-og-ansatte-forlod-skolen-efter-luftvejsgener",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -170,90 +195,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-15T20:25:59+02:00",
-        "formatted_time": "For 18 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/ufulvjbr\/20260815-201622-7.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "b979432a66fd6a90a479f11e4bd41510",
-        "title": "68 druknet efter færgeforlis i Zimbabwe",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/68-druknet-efter-faergeforlis-i-zimbabwe",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-15T18:45:39+02:00",
-        "formatted_time": "For 20 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/01epoxpv\/20260812-232448-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "3d010340bd222a7e0dadf296234d93db",
-        "title": "To danskere med i toppen før finalerunde i Danmarks største golfturnering",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/sporten\/seneste-sport\/danskere-med-i-toppen-foer-finalerunde-i-danmarks-stoerste-golfturnering",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-15T17:14:44+02:00",
-        "formatted_time": "For 22 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/05ebc2ve\/20260812-134213-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "30221769d1fd9d4c952960c9d8cf9c62",
-        "title": "Kyllingespyd tilbagekaldes på grund af risiko for råt kød",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/kyllingespyd-tilbagekaldes-paa-grund-af-risiko-raat-koed",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-15T16:58:30+02:00",
-        "formatted_time": "For 22 timer siden",
+        "pub_date": "2026-08-21T12:57:12+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     },
     {
-        "id": "4d8b44036f6f1b2a89dd305525c1ea85",
-        "title": "Europas højeste Jomfru Maria-statue indviet i Polen",
+        "id": "57bcad9fc4d6ae7dd44ee2f3c47a7ba3",
+        "title": "Forbrugerråd finder ulovlige PFAS-stoffer i sportstape",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/europas-hoejeste-jomfru-maria-statue-indviet-i-polen",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/forbrugerraad-finder-ulovlige-pfas-stoffer-i-sportstape",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -270,65 +220,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-15T16:36:38+02:00",
-        "formatted_time": "For 22 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/hbfbdwqa\/20260729-153317-1_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "08c669c3e011a7a92cd48bcd703e96a8",
-        "title": "EU hjælper Belgien med at bekæmpe rekordstor naturbrand",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/eu-hjaelper-belgien-med-bekaempe-rekordstor-naturbrand",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-15T16:08:58+02:00",
-        "formatted_time": "For 23 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/5qnpwvfq\/20260814-173909-7_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "111f5d2e3b043b2b2e3fac038ec6953a",
-        "title": "100 migranter nægtet ankomst til Ceuta af marokkansk politi",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/100-migranter-naegtet-ankomst-til-ceuta-af-marokkansk-politi",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-15T15:21:39+02:00",
-        "formatted_time": "For 23 timer siden",
+        "pub_date": "2026-08-21T12:36:32+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     },
     {
-        "id": "53d63cea64e3321bc5ad05a66e98847d",
-        "title": "Større brand brudt ud i industribygning",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/stoerre-brand-brudt-ud-i-industribygning",
+        "id": "0cd169c75cc13673d1bf94ecd1472032",
+        "title": "Tidligere statsløse palæstinensere taber i Højesteret",
+        "summary": "Flere tidligere statsløse sagsøgte Udlændinge- og Integrationsministeriet. Efter 14 år er krav nu afvist.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/tidligere-statsloese-palaestinensere-taber-i-hoejesteret",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -345,15 +245,40 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-15T11:44:02+02:00",
-        "formatted_time": "I går kl. 11:44",
+        "pub_date": "2026-08-21T12:09:29+02:00",
+        "formatted_time": "For 4 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/gbklkew1\/20250407-182337-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "fa01122546d4564deeb2e4abe3733b33",
+        "title": "Energiselskab politianmeldt for et spild på næsten 70.000 liter olie",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/energiselskab-politianmeldt-et-spild-paa-naesten-70-000-liter-olie",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T11:58:16+02:00",
+        "formatted_time": "For 4 timer siden",
         "image_url": null
     },
     {
-        "id": "31a9631b9bbb43947e0f0f1c8e3adc23",
-        "title": "38 personer er døde efter jordskælv i Indonesien",
+        "id": "3deec69898cdbb19abe3c4e7ffd87327",
+        "title": "To militære køretøjer er stødt sammen på Bornholm",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/38-personer-er-doede-efter-jordskaelv-i-indonesien",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/militaere-koeretoejer-er-stoedt-sammen-paa-bornholm",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -370,8 +295,83 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-15T11:36:13+02:00",
-        "formatted_time": "I går kl. 11:36",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/kfpavej3\/20260815-100734-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-08-21T10:25:18+02:00",
+        "formatted_time": "For 6 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "d5a356b8dcaf30dbd9dfd998326404ae",
+        "title": "Kæmpe Novo Nordisk-fest kan påvirke trafikken",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/novo-nordisks-kaempe-sommerfest-kan-paavirke-trafikken",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T10:14:18+02:00",
+        "formatted_time": "For 6 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "9664b3b4d0506ea53c4ad0e40da6c446",
+        "title": "Politiet undersøger sprængning i København",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/politiet-undersoeger-spraengning-i-koebenhavn",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T09:39:02+02:00",
+        "formatted_time": "For 6 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "b4897e0c0f6badd2619f2437d1c03406",
+        "title": "Fly med otte personer styrtet ned i Alaska",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/fly-med-otte-personer-styrtet-ned-i-alaska",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-08-21T08:25:18+02:00",
+        "formatted_time": "For 8 timer siden",
+        "image_url": null
     }
 ]

@@ -1,0 +1,6 @@
+{
+  "name": "Tilbudsoversigt",
+  "description": "En moderne og overskuelig oversigt over ugens bedste tilbud og rabatter på dagligvarer med besparelsesberegner og tilbudsaviser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

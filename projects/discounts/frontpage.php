@@ -2,45 +2,24 @@
 
 <?php
 
-  include "style.php";
-
 ?>
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="da">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>En kedelig forside</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <header>
-        <h1>Hjemmeside</h1>
-        <p>Dette er en helt almindelig overskrift.</p>
-    </header>
-
-    <nav>
-        <a href="#">Forside</a> | 
-        <a href="#">Om os</a> | 
-        <a href="#">Kontakt</a>
-    </nav>
-
-    <main>
-        <h2>Velkommen</h2>
-        <p>Dette er tekst på en teksttung og uinteressant forside. Der er ingen animationer, billeder eller spændende farver her. Alt står præcis, som det plejer på internettet fra omkring år 2000.</p>
-        
-        <h2>Vores services</h2>
-        <p>Vi tilbyder basale ting, som de fleste andre også tilbyder. Du kan læse mere ved at klikke på linkene i menuen ovenfor.</p>
-    </main>
-
-    <footer>
-        <p>&copy; 2026 Kedelig Virksomhed A/S. Alle rettigheder forbeholdes.</p>
-    </footer>
-
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tilbudsoversigt - Find de bedste rabatter</title>
+    <meta name="description" content="Hold Ã¸je med ugens bedste tilbud pÃ¥ dagligvarer som Ritter Sport, Coca-Cola, Mathilde kakaomÃ¦lk, frosne grÃ¸ntsager og proteindrikke." />
+    <meta property="og:title" content="Tilbudsoversigt" />
+    <meta property="og:description" content="Oversigt over ugens bedste tilbud og rabatter." />
+  </head>
+  <body class="bg-slate-50 antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
+
 
 
 

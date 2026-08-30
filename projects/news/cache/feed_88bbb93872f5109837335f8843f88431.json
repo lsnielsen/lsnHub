@@ -1,9 +1,9 @@
 [
     {
-        "id": "8055f5e56c57d91fa069a327bd17c0bf",
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+        "id": "6370081415189a3f53b949357eca1ce8",
+        "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+        "summary": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj035jg256no?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-africa",
         "source_name": "BBC News Africa",
         "country": "Afrika",
@@ -20,9 +20,259 @@
                 "flag": "🌍"
             }
         ],
-        "pub_date": "2026-08-15T22:58:31+02:00",
-        "formatted_time": "For 16 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2b64\/live\/5894c3c0-98d0-11f1-9687-fb984065014d.jpg"
+        "pub_date": "2026-08-21T12:48:01+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/1ba3\/live\/d3d9aed0-9d4c-11f1-aed2-8d6da8d75094.png"
+    },
+    {
+        "id": "9cc57dcffba45f345f30b2fcc510a15e",
+        "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+        "summary": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-21T13:57:37+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/8b41\/live\/f09bde00-9d4f-11f1-b109-879e35c24276.png"
+    },
+    {
+        "id": "7d29814847f6c7df648ad7099cc325df",
+        "title": "Why Nigeria's one-time political giant may face extinction",
+        "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj364klz857o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-21T01:21:22+02:00",
+        "formatted_time": "For 15 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/04a6\/live\/2c90c640-9c9d-11f1-a5a0-114ca9d4a1bc.jpg"
+    },
+    {
+        "id": "43c66b1af2d858dd7a4ead1db122d0f7",
+        "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+        "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-21T15:44:43+02:00",
+        "formatted_time": "For 41 min. siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/00e4\/live\/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+        "id": "d1807c455ae8f23c879d6f06a4cbec4a",
+        "title": "Ex-Zambian minister killed in security raid on opposition",
+        "summary": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-20T12:07:48+02:00",
+        "formatted_time": "I går kl. 12:07",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/feda\/live\/20a4f320-9c6f-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+        "id": "0ed96375e5354c6c73e4c7f7ef8e4435",
+        "title": "'This star is for Africa' - Angélique Kidjo on making Hollywood Walk of Fame history",
+        "summary": "The musical icon from Benin tells the BBC about why Africa and Africans are so important to music.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-20T17:23:02+02:00",
+        "formatted_time": "For 23 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/55b2\/live\/cb571ed0-9ca4-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+        "id": "65ded486c0ea11f857717c39524bd9ee",
+        "title": "Former Liberian vice-president charged in drug-trafficking probe",
+        "summary": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-20T13:08:19+02:00",
+        "formatted_time": "I går kl. 13:08",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/1198\/live\/e20af280-9c24-11f1-8f4f-835961d63624.jpg"
+    },
+    {
+        "id": "f743e028f5dccf0947158e75be636662",
+        "title": "The goat is now a celebrity - how this Nigerian graduation gift went viral",
+        "summary": "Described as a calm character, Promise Okoro's goat loves fried rice and has become celebrated locally.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c3w03y2wgxeo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-18T01:38:10+02:00",
+        "formatted_time": "18. Aug 2026, 01:38",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3131\/live\/f7f71270-959b-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+        "id": "cf5961d8bca64457ada1750118e7deaa",
+        "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+        "summary": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-17T01:09:39+02:00",
+        "formatted_time": "17. Aug 2026, 01:09",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2b0d\/live\/bd99be00-9a1b-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+        "id": "421c1a6a9a593086a872b1800a43717a",
+        "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+        "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-20T12:41:25+02:00",
+        "formatted_time": "I går kl. 12:41",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/a600\/live\/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg"
+    },
+    {
+        "id": "f6139e77d89501d2792859bf404be38e",
+        "title": "From former 'street kid' key to South Africa's police corruption inquiry",
+        "summary": "Vusimusi \"Cat\" Matlala, who is appearing at the Madlanga Commission, grew up hustling to make a living.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cpq3q75y40do?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-africa",
+        "source_name": "BBC News Africa",
+        "country": "Afrika",
+        "country_code": "AF",
+        "flag": "🌍",
+        "region": "afrika",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Afrika",
+                "code": "AF",
+                "flag": "🌍"
+            }
+        ],
+        "pub_date": "2026-08-17T10:56:09+02:00",
+        "formatted_time": "17. Aug 2026, 10:56",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/fdb1\/live\/16d66c60-7f92-11f1-ac71-510b51a60620.jpg"
     },
     {
         "id": "e5abfec15ffcfa2b00dd4e8e22d9b981",
@@ -46,133 +296,8 @@
             }
         ],
         "pub_date": "2026-08-15T01:17:22+02:00",
-        "formatted_time": "I går kl. 01:17",
+        "formatted_time": "15. Aug 2026, 01:17",
         "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/5ebb\/live\/44b13670-91a2-11f1-964d-6f76397ea067.jpg"
-    },
-    {
-        "id": "367acdad86a02c67826d3635286bc57b",
-        "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-        "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-14T18:28:59+02:00",
-        "formatted_time": "I går kl. 18:28",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3018\/live\/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-        "id": "ffa9651af0459bd2535b30d6b30c1ac3",
-        "title": "US missionary released following kidnap in Niger, Christian group says",
-        "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-14T12:18:02+02:00",
-        "formatted_time": "14. Aug 2026, 12:18",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/73d8\/live\/4e317200-97c9-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-        "id": "c1a15bf4d50194313e2348b12f9f0e5a",
-        "title": "Why Michaely Bihina is the keeper making waves at Wafcon",
-        "summary": "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
-        "link": "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/c7vgylpgmz7o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-15T09:38:19+02:00",
-        "formatted_time": "I går kl. 09:38",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/d1bf\/live\/63493d20-97f2-11f1-a579-3beb34ebe76c.png"
-    },
-    {
-        "id": "8c189f214509341b7385e1cde341475d",
-        "title": "Pardon for president's main rival in Chad",
-        "summary": "It paves the way for the release of Succès Masra from prison where he had been sentenced to 20 years.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cn8nq561v14o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-14T13:54:48+02:00",
-        "formatted_time": "14. Aug 2026, 13:54",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/35c0\/live\/65a05390-326f-11f0-bde1-b36cab78830c.jpg"
-    },
-    {
-        "id": "569724b949ddb12e264dc144b20b79df",
-        "title": "Who are the Chawinga sisters leading Malawi's bid for Wafcon glory?",
-        "summary": "Sisters Tabitha and Temwa Chawinga are the undoubted stars of Malawi's unexpected run to the final of the 2026 Women's Africa Cup of Nations.",
-        "link": "https:\/\/www.bbc.co.uk\/sport\/football\/articles\/cp87rj8v946o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-14T17:16:55+02:00",
-        "formatted_time": "I går kl. 17:16",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3cb5\/live\/2e7e6c00-97e8-11f1-a76b-f1c27c51f3da.jpg"
     },
     {
         "id": "e3fb99999f729d9a63a9f3f230029c67",
@@ -248,130 +373,5 @@
         "pub_date": "2026-08-11T07:02:22+02:00",
         "formatted_time": "11. Aug 2026, 07:02",
         "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/6cf0\/live\/e14a5fa0-9276-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-        "id": "3901f26dbd081901eb04e343b6b929db",
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-10T01:05:29+02:00",
-        "formatted_time": "10. Aug 2026, 01:05",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/b06b\/live\/f6f369e0-9281-11f1-9985-cdf6a137096d.jpg"
-    },
-    {
-        "id": "6195db0a8bfd8f0cef81c0be99044a81",
-        "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-        "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Frankrig",
-                "code": "FR",
-                "flag": "🇫🇷"
-            }
-        ],
-        "pub_date": "2026-08-13T17:50:49+02:00",
-        "formatted_time": "13. Aug 2026, 17:50",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/d647\/live\/3b219a60-9728-11f1-808c-532494fd22c7.jpg"
-    },
-    {
-        "id": "4b2cb08866a6d2e2fd75c3c8795dd75c",
-        "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-        "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cqx7q17531do?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-09T03:10:50+02:00",
-        "formatted_time": "9. Aug 2026, 03:10",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/6210\/live\/08a29290-927f-11f1-9985-cdf6a137096d.jpg"
-    },
-    {
-        "id": "47f8063666a862f132dc4cfa8e035d86",
-        "title": "Sudan's invisible children - born in war with no legal identity",
-        "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-07T02:26:52+02:00",
-        "formatted_time": "7. Aug 2026, 02:26",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3eef\/live\/8631ea90-9260-11f1-b9ff-37ae3aba3894.jpg"
-    },
-    {
-        "id": "1ae852d1a106d5b3332c30b030735b0b",
-        "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-        "summary": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-africa",
-        "source_name": "BBC News Africa",
-        "country": "Afrika",
-        "country_code": "AF",
-        "flag": "🌍",
-        "region": "afrika",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Afrika",
-                "code": "AF",
-                "flag": "🌍"
-            }
-        ],
-        "pub_date": "2026-08-05T01:13:04+02:00",
-        "formatted_time": "5. Aug 2026, 01:13",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/5a9e\/live\/76921b10-900c-11f1-aabc-c3c7aa714117.jpg"
     }
 ]
