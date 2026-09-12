@@ -1,9 +1,34 @@
 [
     {
-        "id": "35a4f79c2d8622caa2af015c392c78e0",
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "id": "ad284bc9c1e485b44669bd1acb92e5de",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-12T19:42:38+02:00",
+        "formatted_time": "For 19 min. siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/9256\/live\/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+        "id": "c77274bfb7b713cc42fc67509406c329",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -20,15 +45,15 @@
                 "flag": "🇮🇱"
             }
         ],
-        "pub_date": "2026-08-21T07:00:57+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/5acd\/live\/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg"
+        "pub_date": "2026-09-12T14:15:50+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/03a0\/live\/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg"
     },
     {
-        "id": "1b29ff22d32bb371b2291cc485a8d663",
-        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-        "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "id": "f0c27feaac8fdbddd4fd324011acb711",
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+        "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -40,70 +65,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
             }
         ],
-        "pub_date": "2026-08-21T15:07:00+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/11c3\/live\/c7b37380-9d5a-11f1-b109-879e35c24276.jpg"
-    },
-    {
-        "id": "1bd2d3631780ed2237a84c7378417ee9",
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Kina",
-                "code": "CN",
-                "flag": "🇨🇳"
-            }
-        ],
-        "pub_date": "2026-08-21T07:47:32+02:00",
-        "formatted_time": "For 8 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/d436\/live\/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg"
-    },
-    {
-        "id": "8a2f2bc7b647f7b21eb687cb758f98f3",
-        "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-        "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T11:53:47+02:00",
+        "pub_date": "2026-09-12T15:56:20+02:00",
         "formatted_time": "For 4 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/88c1\/live\/024497b0-9d45-11f1-a137-179a8d1c790b.jpg"
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/a39c\/live\/b6611ef0-aec3-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-        "id": "801ee58585a1958ed4bd433d63970f03",
-        "title": "Panama Canal to cut number of ships passing through due to El Niño",
-        "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+        "id": "e6ea7b503f8c1eda9d0bdaeec69c3f1e",
+        "title": "French officials investigate if malicious act caused train derailment",
+        "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -120,65 +95,45 @@
                 "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-08-21T08:46:08+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/db42\/live\/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
-    },
-    {
-        "id": "db10e3349534676e6f87b8231a1c7798",
-        "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-        "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T12:03:17+02:00",
-        "formatted_time": "For 4 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/0d2a\/live\/6dea4cb0-9d42-11f1-801c-1fffda40756a.jpg"
-    },
-    {
-        "id": "9cc57dcffba45f345f30b2fcc510a15e",
-        "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-        "summary": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T13:57:37+02:00",
+        "pub_date": "2026-09-12T17:05:53+02:00",
         "formatted_time": "For 2 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/8b41\/live\/f09bde00-9d4f-11f1-b109-879e35c24276.png"
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/57a4\/live\/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg"
     },
     {
-        "id": "4e2df7f412962c73611a783d2cd359db",
-        "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-        "summary": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+        "id": "3b15d8b82131791aad456cebba6726bd",
+        "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+        "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Ukraine",
+                "code": "UA",
+                "flag": "🇺🇦"
+            },
+            {
+                "name": "Rusland",
+                "code": "RU",
+                "flag": "🇷🇺"
+            }
+        ],
+        "pub_date": "2026-09-12T07:55:15+02:00",
+        "formatted_time": "For 12 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/658c\/live\/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+        "id": "ff3c34856db8ad46d86281c480e133c4",
+        "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+        "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -195,65 +150,15 @@
                 "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-08-21T12:46:09+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/f281\/live\/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-        "id": "9260fc61565875234db5a5777c558585",
-        "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
-        "summary": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T08:33:32+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/c967\/live\/73aefbd0-9d53-11f1-b109-879e35c24276.jpg"
-    },
-    {
-        "id": "699180a80f675d60ebde79fc29040f22",
-        "title": "Five missing after fire in Swiss Alpine town",
-        "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T15:10:39+02:00",
+        "pub_date": "2026-09-12T18:55:31+02:00",
         "formatted_time": "For 1 time siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2795\/live\/227f1c60-9d56-11f1-a291-b542ee92de7c.jpg"
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/e0e9\/live\/2565bff0-aecd-11f1-89e2-171455bb2760.png"
     },
     {
-        "id": "9f00f77aef7062abd1b560abc45f158e",
-        "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-        "summary": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+        "id": "1cac53b4dfb22df3cc6711ed8bd47beb",
+        "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+        "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -270,108 +175,208 @@
                 "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-08-21T04:33:27+02:00",
-        "formatted_time": "For 11 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/1e38\/live\/fdd312c0-9d02-11f1-8390-abef47452aa0.jpg"
-    },
-    {
-        "id": "6370081415189a3f53b949357eca1ce8",
-        "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
-        "summary": "The overloaded boat was taking people, including many children, to farms to harvest rice.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj035jg256no?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T12:48:01+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/1ba3\/live\/d3d9aed0-9d4c-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-        "id": "1e1e5d285ddfc2d6d59f4e15521ba4ca",
-        "title": "Japan executes man who killed five in Pachinko parlour fire",
-        "summary": "This is the first time since June 2025 that the country has enacted capital punishment.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T04:49:27+02:00",
-        "formatted_time": "For 11 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/472a\/live\/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg"
-    },
-    {
-        "id": "c9a0f5c8dcb28f9e3cfaa9312b0f5daf",
-        "title": "Australian hiker's body recovered as officials apologise for misreporting she was alive",
-        "summary": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T06:54:21+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/0161\/live\/bfab9ab0-9d13-11f1-aa70-15b2bc2a2471.jpg"
-    },
-    {
-        "id": "9cf3e77dd68e20fd3b2ee19d68b188f4",
-        "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-        "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-21T07:30:18+02:00",
+        "pub_date": "2026-09-12T12:00:05+02:00",
         "formatted_time": "For 8 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/663b\/live\/8f14ea70-9d16-11f1-acd5-9b942218313f.jpg"
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/0ee6\/live\/5bc27210-ad1e-11f1-826f-933990eae6f0.jpg"
+    },
+    {
+        "id": "2df3020259d2c5590d5328a7b48b8419",
+        "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-12T17:09:55+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/28b9\/live\/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+        "id": "6b4b0878bcb66cedf39f05a167570d34",
+        "title": "Record heatwaves in France set to make champagne stronger",
+        "summary": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
+            }
+        ],
+        "pub_date": "2026-09-12T15:00:32+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/e6fd\/live\/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg"
+    },
+    {
+        "id": "531819dc2bd74a461372290bf88aea94",
+        "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
+        "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-12T19:38:21+02:00",
+        "formatted_time": "For 24 min. siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/4d65\/live\/7c498bd0-aebe-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+        "id": "e78321c5e60b9b8819de88d41ded1d66",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-12T04:29:49+02:00",
+        "formatted_time": "For 15 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/d0ba\/live\/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg"
+    },
+    {
+        "id": "cda282b41fda5679cff9ee30ebb4d13b",
+        "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+        "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-12T10:04:16+02:00",
+        "formatted_time": "For 9 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/42bf\/live\/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+        "id": "c4903d706c6abaecef916f0450e575db",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Italien",
+                "code": "IT",
+                "flag": "🇮🇹"
+            }
+        ],
+        "pub_date": "2026-09-11T22:34:29+02:00",
+        "formatted_time": "For 21 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/f302\/live\/684bd3c0-ae07-11f1-b561-83a33482e04f.png"
+    },
+    {
+        "id": "0b4cf6e892d2f60130cc4875ecba1a7c",
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9\/11 attacks",
+        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-12T02:43:00+02:00",
+        "formatted_time": "For 17 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3c68\/live\/3f2e2470-ae3e-11f1-a1d3-cf0ffc395bed.jpg"
+    },
+    {
+        "id": "17bfa81ef2ac3b54cff7d522269a4bae",
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Mellemøsten & Gaza",
+                "code": "IL",
+                "flag": "🇮🇱"
+            }
+        ],
+        "pub_date": "2026-09-11T21:44:58+02:00",
+        "formatted_time": "For 22 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/82b5\/live\/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg"
     }
 ]

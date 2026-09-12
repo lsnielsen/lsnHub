@@ -1,9 +1,34 @@
 [
     {
-        "id": "e7a3511055b2c084084ad52eb7793f96",
-        "title": "I fokus: Krav på val i Ukraina – splittring kan gynna Putin",
-        "summary": "Ukrainas sparkade försvarsminister Mychajlo Fedorov kräver att val ska hållas – trots att kriget rasar för fullt. Han har stöd från en stor del av befolkningen – men regeringen och president Volodymyr Zelenskyj säger nej. – Om det blir någon form av politisk sp...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/i-fokus-krav-pa-val-i-ukraina-splittring-kan-gynna-putin",
+        "id": "f0e5018558cadd4a83920b9db3e2fd71",
+        "title": "AI-jättens vd: AI-utvecklingen borde bromsas",
+        "summary": "AI-bolagen måste bromsa utvecklingen av AI, skriver Anthropic vd Dario Amodei på sin hemsida. ”Utvecklingen kommer fortfarande att upplevas som snabb, och vi måste använda tiden vi vinner på ett förnuftigt vis,” skriver han.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/ai-jattens-vd-ai-utvecklingen-borde-bromsas",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T17:25:59+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "5a594d455a70e70815cf06aa69031b01",
+        "title": "Så nära Zelenskyj når Ukrainas största muthärva",
+        "summary": "Ukrainas statsledning skakas av korruptionsanklagelser i miljardklassen i skuggan av kriget. Tunga ministrar och chefer på presidentkontoret har tvingats avgå misstänkta för mutor, penningtvätt eller förskingring. SVT Nyheter har kartlagt anklagelserna mot ett tiotal m...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/sa-nara-zelenskyj-nar-ukrainas-storsta-mutharva",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -18,152 +43,247 @@
                 "name": "Ukraine",
                 "code": "UA",
                 "flag": "🇺🇦"
-            },
+            }
+        ],
+        "pub_date": "2026-09-12T16:31:27+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "d23bfdb88bea59dd14c488aaae6ac131",
+        "title": "Gängtoppen Haval Khalil har utlämnats till Sverige",
+        "summary": "Haval Khalil har landat i Sverige och kunde gripas av svensk polis. Han är begärd häktad misstänkt för bland annat mordförsök och beskrivs som en ”högprioriterad person”. – Nu kommer det hållas förhör under helgen, säger statsåklagare Ida Arnell.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/gangtoppen-haval-khalil-har-lamnats-ut-till-sverige",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T14:41:21+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "5f3b52122cecdd103d03daf70ca8ca31",
+        "title": "Tyskland: Rysk underrättelse bakom bombdrönare",
+        "summary": "Den ryska underrättelsetjänsten var med och planerade angreppet med en sprängmedelsbestyckad drönare på flygplatsen Leipzig\/Halle i augusti, enligt en rapport.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tyskland-rysk-underrattelse-bakom-bombdronare",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Tyskland",
+                "code": "DE",
+                "flag": "🇩🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T14:20:07+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "38c2d02491ff87c5e334ab85b7b51c83",
+        "title": "Flera döda i brand i syriskt fängelse",
+        "summary": "Minst sju intagna har omkommit i en brand vid ett fängelseuppror i staden Kobane i norra Syrien.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/flera-doda-i-brand-i-syriskt-fangelse",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T14:16:00+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "0608c61904669496b16e16e93d994805",
+        "title": "Trump: Enat Irland vore ”fantastiskt”",
+        "summary": "Donald Trump säger att ett enat Irland vore ”fantastiskt”, under ett besök på den gröna ön.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/trump-enat-irland-vore-fantastiskt",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-12T13:53:01+02:00",
+        "formatted_time": "For 6 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "7ae91724d9247cb42516372c79937637",
+        "title": "Tågolycka i Frankrike: Polis misstänker sabotage",
+        "summary": "Polisen i Frankrike misstänker att sabotage ligger bakom den tågurspårning som inträffade i landets nordvästra del under fredagen, uppger en poliskälla för AFP.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tagolycka-i-frankrike-polis-misstanker-sabotage",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T10:19:52+02:00",
+        "formatted_time": "For 9 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "b051a6598db8a5492a4800a63819bb70",
+        "title": "Tusentals afrikanska trollkonton tar sikte mot Sverige inför valet",
+        "summary": "600 mil bort mobiliserar en trollarmé mot Sverige. Ett samarbete mellan SVT, Trollrensics och Alliance4europe visar hur en svärm av tusentals konton baserade i afrikanska länder som Nigeria och Benin massföljer utvalda svenska användare. Enligt experter riskerar det hä...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tusentals-afrikanska-trollkonton-tar-sikte-mot-sverige-infor-valet",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T06:31:18+02:00",
+        "formatted_time": "For 13 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "37c56d0db02dec9ad236df12cdab6063",
+        "title": "Open AI:s agenter bakom ytterligare cyberattack",
+        "summary": "Två månader innan Open AI:s AI-modeller bröt sig ur en testmiljö och attackerade plattformen Hugging face hade de redan genomfört en annan cyberattack, rapporterar The Wall street journal.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/open-ais-agenter-bakom-ytterligare-cyberattack",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T05:23:20+02:00",
+        "formatted_time": "For 14 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "a7f6a3a3da2962643eea1c119efaa8e7",
+        "title": "Nato stoppade rysk sabotageövning vid Svalbard",
+        "summary": "I våras stoppade Nato en rysk sabotageövning i Norra ishavet utanför Svalbard. Ryska djuphavsbåtar ska ha övat med ett ”hemligt vapen” – och USA var involverat i insatsen, uppger källor för Reuters.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/nato-stoppade-rysk-sabotageovning-vid-svalbard",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-12T00:57:39+02:00",
+        "formatted_time": "For 19 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "7dfa54b707395d674d2792113c45c85a",
+        "title": "Kina flyttar samhälle – klimatrisker ökar i bergsområden",
+        "summary": "Kina flyttar 3 400 hushåll i Deqin när klimatrisker, extremväder och smältande glaciärer ökar hotet i bergsområden. – Om regeringen menar allvar med vår säkerhet kan vi inte stanna. Vi måste flytta, säger Lazhong Jiping.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/kina-flyttar-samhalle-klimatrisker-okar-i-bergsomraden",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
             {
                 "name": "Danmark",
                 "code": "DK",
                 "flag": "🇩🇰"
             },
             {
-                "name": "Rusland",
-                "code": "RU",
-                "flag": "🇷🇺"
+                "name": "Kina",
+                "code": "CN",
+                "flag": "🇨🇳"
             }
         ],
-        "pub_date": "2026-08-21T11:58:11+02:00",
-        "formatted_time": "For 4 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "df56c31eb1b40b2f6f1ac9c04e654bae",
-        "title": "Alltid vid Trumps sida – så blev Natalie Harp en snackis",
-        "summary": "Hon tillskriver Donald Trump sin seger mot cancer – och står så nära presidenten att hon en gång åkte i en baklucka för att få vara vid hans sida. 35-åriga assistenten Natalie Harp tycks vara Trumps största fan och absoluta favorit. Men vem är hon?",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/alltid-vid-trumps-sida-sa-blev-natalie-harp-en-snackis",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-08-21T09:24:43+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "9f81fa6a1be1b97bf4d065f3ce5ffa95",
-        "title": "Flygplan har kraschat i Alaska",
-        "summary": "Ett mindre passagerarflygplan med åtta personer ombord har kraschat i sydvästra Alaska, rapporterar amerikanska Anchorage Daily News. Ingen ska ha överlevt, rapporterar Reuters.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/flygplan-har-kraschat-i-alaska",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-08-21T05:34:27+02:00",
-        "formatted_time": "For 10 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "ed483d2e7ea879ad42abf7046065f01a",
-        "title": "Uppgift: Donald Trump vill ändra fartygens utseende",
-        "summary": "Trump vill att USA:s nya hangarfartyg ska likna dem från andra världskriget, enligt källor till Washington Post. Amerikanska flottan utreder nu om kommandotorn kan flyttas – en omdesign som spås kosta miljarder. – Inget blir bättre, allt blir dyrare och potentiellt ...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/uppgift-donald-trump-vill-andra-fartygens-utseende",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-08-21T03:13:10+02:00",
-        "formatted_time": "For 13 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "fb22c5f52b20af2ccfec5977ac507c9d",
-        "title": "Italienare riskerar fängelse om de inte tar hand om gamla föräldrar",
-        "summary": "Ta hand om dina gamla föräldrar – eller hamna i fängelse. Det är verklighet i Italien. Där är folk enligt lag skyldiga att vid behov försörja sina åldriga föräldrar och se till att de får omsorg.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/italienare-riskerar-fangelse-om-de-inte-tar-hand-om-gamla-foraldrar",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Italien",
-                "code": "IT",
-                "flag": "🇮🇹"
-            }
-        ],
-        "pub_date": "2026-08-21T03:11:54+02:00",
-        "formatted_time": "For 13 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "56de3e2671c7dc3e2ae39d2daf9e3b4e",
-        "title": "Jordskalv med magnitud 6,7 drabbar Peru",
-        "summary": "Ett kraftigt jordskalv har drabbat södra Peru.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/jordskalv-med-magnitud-67-drabbar-peru",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-08-20T21:04:47+02:00",
+        "pub_date": "2026-09-12T00:55:12+02:00",
         "formatted_time": "For 19 timer siden",
         "image_url": null
     },
     {
-        "id": "2d905ef8e7d742478054ad227d0edf31",
-        "title": "Ryskt flygplan misstänks ha kränkt finskt luftrum",
-        "summary": "Ett ryskt flygplan misstänks ha kränkt Finlands luftrum i den västra delen av Finska viken på torsdagseftermiddagen, rapporterar Yle.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/ryskt-flygplan-misstanks-ha-krankt-finskt-luftrum",
+        "id": "4f13b63db6146eaaea788227d536cff6",
+        "title": "Amnesty: Rysslands utländska rekrytering är människohandel",
+        "summary": "Ryssland använder bedrägerier, hot och tvångsrekrytering när man skickar utländska soldater till fronten i Ukraina. I många fall handlar det om ren människohandel, skriver Amnesty International i en ny rapport.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/amnesty-rysslands-utlandska-rekrytering-ar-manniskohandel",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -180,15 +300,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-08-20T20:58:06+02:00",
-        "formatted_time": "For 19 timer siden",
+        "pub_date": "2026-09-11T23:51:48+02:00",
+        "formatted_time": "For 20 timer siden",
         "image_url": null
     },
     {
-        "id": "c00ad70f3c0cd5ed92bb5b6d1f3d2212",
-        "title": "Nord Stream-misstänkt greps vid filminspelning",
-        "summary": "Den ukrainske proffsdykare som misstänks för inblandning i sabotage mot Nord Streamledningen 2022 greps vid en filminspelning om attacken mot gasledningen.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/nord-stream-misstankt-greps-vid-filminspelning",
+        "id": "4b08f16aebdf985cbe1cc5ab59cff0f0",
+        "title": "Tjörnkaptenen släpps ur häktet i väntan på dom",
+        "summary": "Varken kaptenen eller lotsen märkte att lastfartyget Misje Verde kört på något. Kaptenen anser att lotsen bär ansvar för olyckan, medan han själv har det allmänna ansvaret för vad som händer på fartyget, säger han vid rättegången om olyckan utanför Tjörn. I v...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tjornkaptenen-slapps-ur-haktet-i-vantan-pa-dom",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -205,40 +325,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-08-20T17:56:13+02:00",
-        "formatted_time": "For 22 timer siden",
+        "pub_date": "2026-09-11T17:38:06+02:00",
+        "formatted_time": "I går kl. 17:38",
         "image_url": null
     },
     {
-        "id": "21b8046ebb057879697e2c9c84886f46",
-        "title": "”När extrema utspel blir valstrategi – därför trappar Ben-Gvir upp retoriken”",
-        "summary": "Valrörelsen i Israel är igång med full kraft och det märks på hur säkerhetsminister Itamar Ben-Gvir chockar med sina häpnadsväckande utspel som kommer allt tätare.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/nar-extrema-utspel-blir-valstrategi-darfor-trappar-ben-gvir-upp-retoriken",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Mellemøsten & Gaza",
-                "code": "IL",
-                "flag": "🇮🇱"
-            }
-        ],
-        "pub_date": "2026-08-20T16:48:42+02:00",
-        "formatted_time": "For 23 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "c34071a29eaf7234f910196525247d9c",
-        "title": "20 augusti: Nattens nyheter",
-        "summary": "Klik for at læse den fulde artikel hos SVT Utrikes.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/20-augusti-nattens-nyheter-ipswcv",
+        "id": "1afe67c348f76d7efabf97c8aaccb499",
+        "title": "Håller världen på att få en andra Hormuzkris?",
+        "summary": "Den Iranstödda Huthimilisen i Jemen har genom en blixtoffensiv tagit kontroll över det för världshandeln viktiga Bab el-Mandab-sundet.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/haller-varlden-pa-att-fa-en-andra-hormuzkris",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -255,65 +350,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-08-20T05:53:58+02:00",
-        "formatted_time": "I går kl. 05:53",
+        "pub_date": "2026-09-11T17:35:20+02:00",
+        "formatted_time": "I går kl. 17:35",
         "image_url": null
     },
     {
-        "id": "a3f0e3e222fe7e3b998d0cf9cdd65563",
-        "title": "Jordskalv i norra Norge",
-        "summary": "Ett jordskalv med en magnitud på 4,3 har registrerats i havet utanför Nordland i norra Norge.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/jordskalv-i-norra-norge",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Norge",
-                "code": "NO",
-                "flag": "🇳🇴"
-            }
-        ],
-        "pub_date": "2026-08-20T00:06:21+02:00",
-        "formatted_time": "I går kl. 00:06",
-        "image_url": null
-    },
-    {
-        "id": "0d130df0acbc97cb22f9a7f52f2b924a",
-        "title": "Harry och Meghan planerar återflytt till Storbritannien",
-        "summary": "Prins Harry och Meghan planerar att flytta tillbaka till Storbritannien med sina två barn senare i augusti, enligt The Telegraph. Barnen ska börja i en brittisk skola i september.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/harry-och-meghan-planerar-aterflytt-till-storbritannien",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-08-19T23:20:37+02:00",
-        "formatted_time": "I går kl. 23:20",
-        "image_url": null
-    },
-    {
-        "id": "461d93c8d1bf7a02ec59028070b683fa",
-        "title": "Emily i Colorado: ”Utan subventioner hade bara rika kunnat bo här”",
-        "summary": "Inför det amerikanska mellanårsvalet i höst toppar plånboksfrågorna väljarnas dagordning. Vanliga amerikaners ekonomi är pressad, inte minst med krig i Mellanöstern och rusande oljepriser. I exempelvis Colorado funderas det på hur folk ska ha råd att bo – en del ...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/emily-i-colorado-utan-subventioner-hade-bara-rika-kunnat-bo-har",
+        "id": "d86100bb87a022b36cc6d93ca716defe",
+        "title": "Huthierna kontrollerar nu infarten till Röda havet",
+        "summary": "Huthirörelsen i Jemen har intagit strategiskt avgörande öar i Röda havet och Jemens hela rödahavskust. Därmed har den full kontroll över det för världshandeln viktiga Bab al-Mandab, uppger källor för internationella nyhetsbyråer.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/huthierna-kontrollerar-nu-infarten-till-roda-havet",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -330,58 +375,8 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-08-19T18:52:32+02:00",
-        "formatted_time": "I går kl. 18:52",
-        "image_url": null
-    },
-    {
-        "id": "3879c4af6644f773da203be70f7a9c07",
-        "title": "SVT:s Bert Sundström: ”Ryssarna vet vad som pågår – och gillar det inte”",
-        "summary": "De senaste dygnen har Ukraina avfyrat långt över 2000 attackdrönare mot mängder av mål långt in i Ryssland. Kriget ogillas av många ryssar, men det enda politiska partiet som vill stoppa kriget, Jabloko, har förbjudits att ställa upp i parlamentsvalet i september.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/svts-bert-sundstrom-ryssarna-vet-vad-som-pagar-och-gillar-det-inte",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-08-19T18:26:52+02:00",
-        "formatted_time": "I går kl. 18:26",
-        "image_url": null
-    },
-    {
-        "id": "60d0cf1e9b4f0de20ca679e3fa5808a0",
-        "title": "Uppgifter: Över 100 döda i gruvkollaps",
-        "summary": "Minst 100 gruvarbetare befaras ha omkommit när en guldgruva rasade samman i Centralafrikanska republiken, uppger lokala källor.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/uppgifter-over-100-doda-i-gruvkollaps",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-08-19T17:11:24+02:00",
-        "formatted_time": "I går kl. 17:11",
+        "pub_date": "2026-09-11T17:26:52+02:00",
+        "formatted_time": "I går kl. 17:26",
         "image_url": null
     }
 ]

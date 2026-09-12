@@ -1,9 +1,34 @@
 [
     {
-        "id": "f50f966e59da10e0bd71279460a5f145",
-        "title": "Våbenlager fundet i en skov nær Berlin - mistænker spionage og forbrydelse mod staten",
-        "summary": "En person i Rumænien er mistænkt i sagen, bekræfter tysk indenrigsminister på pressemøde.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/vaabenlager-fundet-i-en-skov-naer-berlin-mistaenker-spionage-og-forbrydelse-mod-staten",
+        "id": "571384a0cf6ac2f5661c8f3b903abe2e",
+        "title": "Lettere adoption for homoseksuelle i Ungarn ser ud til at vende tilbage",
+        "summary": "Viktor Orbán gjorde det i sin tid meget svært for homoseksuelle at adoptere.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/lettere-adoption-homoseksuelle-i-ungarn-ser-ud-til-vende-tilbage",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-12T17:14:59+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/1umccu1i\/20260910-162812-2_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "c47f71927788008d8f8682bc2a2e276b",
+        "title": "Kommer AfD's stjernestøv til at miste sin glans, hvis partiet kommer i regering? Det spørgsmål splitter Tyskland lige nu",
+        "summary": "Mens nogle råber vagt i gevær over en mulig regering med AfD i Sachsen-Anhalt, så siger andre: Lad dem da prøve.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/kommer-afd-s-stjernestoev-til-miste-sin-glans-hvis-partiet-kommer-i-regering-det-spoergsmaal",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -20,15 +45,15 @@
                 "flag": "🇩🇪"
             }
         ],
-        "pub_date": "2026-08-21T15:57:16+02:00",
-        "formatted_time": "For 28 min. siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/xzgmjmje\/20260805-211219-6.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-09-12T17:00:00+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/hc5lye40\/20260910-130726-6.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "c61e0cf34634b0370e1ffd06523710c9",
-        "title": "LIVE Sværdangreb på svensk skole",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/live-svaerdangreb-paa-svensk-skole",
+        "id": "05deb491fb17c53588395d4836eb7889",
+        "title": "Trump vil gerne have Irland og Nordirland genforenet: 'Det sker jo før eller siden'",
+        "summary": "Trump er på besøg ved den irske statsminister. Med sig havde han en idé, som ikke vakte begejstring i hverken Irland eller Storbritannien.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/trump-vil-gerne-have-irland-og-nordirland-genforenet-det-sker-jo-foer-eller-siden",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -40,45 +65,25 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-08-21T15:45:23+02:00",
-        "formatted_time": "For 40 min. siden",
-        "image_url": null
-    },
-    {
-        "id": "0b8838bdb35d80c328eb0d52439845c1",
-        "title": "Flere såret af person med sværd på svensk skole",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/flere-saaret-af-person-med-svaerd-paa-svensk-skole",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            },
             {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
+                "name": "Storbritannien",
+                "code": "GB",
+                "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-08-21T15:10:39+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": null
+        "pub_date": "2026-09-12T16:34:59+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/vg2pn2sl\/20260912-123218-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "f8d08d7b0b5f8a1a22cc2a861fb41b72",
-        "title": "I ni EU-lande er mødet mellem ulve og mennesker gået galt",
-        "summary": "I flere EU-lande har der været episoder med ulve, der har bidt og angrebet mennesker. DR Verificerer har undersøgt episoderne.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/indland\/i-ni-eu-lande-er-moedet-mellem-ulve-og-mennesker-gaaet-galt",
+        "id": "865304f586b34d57ce47bc1ed8490cb1",
+        "title": "Næsten 200 hektar fyrreskov brændt i Bulgarien",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/naesten-200-hektar-fyrreskov-braendt-i-bulgarien",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -95,15 +100,175 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-21T13:33:00+02:00",
-        "formatted_time": "For 2 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/nfrl1dzv\/20260429-155020-1-4608x3456ma-1.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-09-12T15:26:24+02:00",
+        "formatted_time": "For 4 timer siden",
+        "image_url": null
     },
     {
-        "id": "4f7ba3fe8e4a2f402dd875d71d481d21",
-        "title": "Israel anerkender at have skudt mod bil, hvor femårige Hind sad fanget i timevis",
-        "summary": "Det israelske militær vil nu åbne en efterforskning af to af de mest omtalte sager i forbindelse med krigen i Gaza.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/israel-anerkender-have-skudt-mod-bil-hvor-femaarige-hind-sad-fanget-i-timevis",
+        "id": "df0aeb2f809078c2b10d17edbb4d4d34",
+        "title": "Ekspert: På mandag er der møde i Oman, og det kommer du til at kunne mærke",
+        "summary": "Mandag mødes Mellemøstens olieproducerende lande til et møde i Oman. Går det godt, kan det blive billigere for danskerne. Går det skidt, kan det blive dyrere.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/ekspert-paa-mandag-er-der-moede-i-oman-og-det-kommer-du-til-kunne-maerke",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-12T14:15:00+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/fbmbiqsy\/20260911-182037-7.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "fdd7f5036c46ec1d3878982d09811314",
+        "title": "Norge vil slukke for Facebook og Instagram om natten",
+        "summary": "Der er ikke noget, der tyder på, at tiltagene også er på vej til at blive indført i Danmark.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/norge-vil-slukke-facebook-og-instagram-om-natten",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            },
+            {
+                "name": "Norge",
+                "code": "NO",
+                "flag": "🇳🇴"
+            }
+        ],
+        "pub_date": "2026-09-12T14:03:01+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/qixhnplm\/20260615-225215-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "41f2e533e871aff67a66f7d8c9ab29f9",
+        "title": "ANALYSE Hun blev kaldt 'bitch' og 'forræder' - nu kan hun måske afgøre udfaldet af det svenske valg",
+        "summary": "Simona Mohamsson står i spidsen for Liberalerne, der kæmper for sin overlevelse. Hun er en af svensk politiks mest omstridte personer – og forudsætningen for en mulig borgerlig regering efter valget.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/analyse-hun-blev-kaldt-bitch-og-forraeder-nu-kan-hun-maaske-afgoere-udfaldet-af-det-svenske-valg",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T13:45:00+02:00",
+        "formatted_time": "For 6 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/lp3nkz2m\/20260313-153601-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "426597b6b01d382cf1f4d8ee5048f823",
+        "title": "Kan AI slå os alle ihjel - eller er det sci-fi?",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/drlyd\/reels\/kan-ai-slaa-os-alle-ihjel-eller-er-det-sci-fi",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-12T08:02:00+02:00",
+        "formatted_time": "For 12 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "8a0f4df2568265c2ea09dc2a324efec4",
+        "title": "Hård sidste debat: 'I har lukket had ind i landet'",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/haard-sidste-debat-i-har-lukket-had-ind-i-landet",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-12T06:48:13+02:00",
+        "formatted_time": "For 13 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "c219c1b797e40ac58d4eef8429d74f28",
+        "title": "Morgenpost fra Sverige: 'Hulken' vil 'knuse' vælgernes måske største problem. Løsningen har hun fundet over sundet",
+        "summary": "Vicestatsministerens vigtigste valgløfte, der skal gøre det af med de lange ventelister på sygehusene, er direkte inspireret af Danmark.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/morgenpost-fra-sverige-hulken-vil-knuse-vaelgernes-maaske-stoerste-problem-loesningen-har-hun",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            },
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-12T06:20:00+02:00",
+        "formatted_time": "For 13 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/44afwjtw\/top-ebba-busch.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "64b8965aab0e83025a6d6fed78b9ff76",
+        "title": "Vigtig saudisk olierørledning ramt af droneangreb fra Irak",
+        "summary": "Saudi-Arabiens vigtige East-West-olierørledning måtte indstille driften efter flere angreb. Nu har Irak lukket en grænseovergang til Iran og indledt en omfattende jagt på gerningsmændene.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/vigtig-saudisk-olieroerledning-ramt-af-droneangreb-fra-irak",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -120,165 +285,15 @@
                 "flag": "🇮🇱"
             }
         ],
-        "pub_date": "2026-08-21T10:27:00+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/fqtnnaz3\/skaermbillede-2026-08-20-112446.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "f98aa0c7e42f5bb61bcb0b20d2532f46",
-        "title": "Svenske socialdemokrater vil forbyde bandekriminelle at have hund",
-        "summary": "Bandekriminelle skal ikke kunne bruge hunde som statusmarkører, skræmmemidler eller egentlige våben, lyder det.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/svenske-socialdemokrater-vil-forbyde-bandekriminelle-have-hund",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-21T09:15:00+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/eeep4h5x\/hunde_1-no-size.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "3ccc179c60d2d9c0d0646c5d9d8f33d7",
-        "title": "Mexicanske fiskere reddet efter fem døgn på havet i en køleboks",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/mexicanske-fiskere-reddet-efter-fem-doegn-paa-havet-i-en-koeleboks",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-21T09:14:19+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "e5fe30d4ea22e74dc6204ee5d8286866",
-        "title": "I mange år var han en hemmelighed, men nu har en belgisk prins anerkendt sit faderskab til 26-årig",
-        "summary": "Den 26-årige blev diskret optaget i prins Laurents familie ved en ceremoni for et halvt år siden.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/i-mange-aar-var-han-en-hemmelighed-men-nu-har-en-belgisk-prins-anerkendt-sit-faderskab-til-26-aarig",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-21T07:58:00+02:00",
-        "formatted_time": "For 8 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/v5opodfb\/prins_et_og_tob.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "d9f350cd0877d684cc210a3cb0096282",
-        "title": "Danmark afviste at hjælpe i Nord Stream-sag. Frygtede for statens sikkerhed",
-        "summary": "Eksperter undrer sig over, at Danmark nægtede at hjælpe tysk politi.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/danmark-afviste-hjaelpe-i-nord-stream-sag-frygtede-statens-sikkerhed",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-21T05:41:00+02:00",
-        "formatted_time": "For 10 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/gyfcfzh0\/20260702-110656-4.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "dbbb28ee21b8286d9154d71f8abdcc4f",
-        "title": "Efter flere dage med dødelige russiske angreb efterspørger Zelenskyj igen Patriot-missiler",
-        "summary": "\"Vi har brug for missiler til Patriot-systemerne, og kun vores partnere kan levere dem\", siger Zelenskyj.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/efter-flere-dage-med-doedelige-russiske-angreb-efterspoerger-zelenskyj-igen-patriot-missiler",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Ukraine",
-                "code": "UA",
-                "flag": "🇺🇦"
-            }
-        ],
-        "pub_date": "2026-08-21T04:30:01+02:00",
-        "formatted_time": "For 11 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/g1yjloas\/20250703-200246-l_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "23e23bc232c5f92005e5b3a9884195fc",
-        "title": "Pakistans tidligere leder overflyttet fra fængsel til hospital",
-        "summary": "Imran Khan modtog sidste år fængselsdomme i to korruptionssager, som han betegner som politisk motiverede.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/pakistans-tidligere-leder-overflyttet-fra-faengsel-til-hospital",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-21T00:12:27+02:00",
+        "pub_date": "2026-09-12T03:31:02+02:00",
         "formatted_time": "For 16 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/kjrlsqvp\/20260820-205632-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/c02pw15s\/20260911-115952-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "0929582cf9268c4dc283fe4d981147e6",
-        "title": "For ti år siden lovede Trump at fjerne USA's statsgæld. Nu er den mere end fordoblet",
-        "summary": "Som præsidentkandidat i 2016 sagde Donald Trump ellers, at han ville kunne sløjfe den amerikanske statsgæld på otte år, hvis han blev valgt.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/ti-aar-siden-lovede-trump-fjerne-usa-s-statsgaeld-nu-er-den-mere-end-fordoblet",
+        "id": "85e06dc8fb3760be0004d1717c94080e",
+        "title": "USA mindes 11. september på 25-årsdagen",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/usa-mindes-25-aarsdagen-11-september",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -295,40 +310,15 @@
                 "flag": "🇺🇸"
             }
         ],
-        "pub_date": "2026-08-20T22:03:00+02:00",
-        "formatted_time": "For 18 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/fw0lgsga\/20190723-090736-1_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "a3824c4dcb40b9a6433195a439ea430d",
-        "title": "Tidligere embedsmand anklages for at have ydmyget næsten 250 kvinder: Flere år efter er efterforskningen stadig i gang",
-        "summary": "Flere kvinder anklager den tidligere embedsmand og HR-chef for at have puttet vanddrivende middel i deres kaffe for at ydmyge dem. ",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/tidligere-embedsmand-anklages-have-ydmyget-naesten-250-kvinder-flere-aar-efter-er-efterforskningen",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-08-20T21:29:00+02:00",
-        "formatted_time": "For 18 timer siden",
+        "pub_date": "2026-09-11T22:06:46+02:00",
+        "formatted_time": "For 21 timer siden",
         "image_url": null
     },
     {
-        "id": "ed24437e3e0724c6936bef85baebb9f5",
-        "title": "Hvem stod bag Nord Stream-sabotagen?",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/hvem-stod-bag-nord-stream-sabotagen",
+        "id": "a7e5739797ea85e7e14ea6d6e23b3efb",
+        "title": "Iransk-støttet houthi-milits sætter sig på vigtigt stræde i Mellemøsten",
+        "summary": "Kan i værste fald tvinge skibe mellem Asien og Europa til at sejle hele vejen rundt om Afrika.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/iransk-stoettet-houthi-milits-saetter-sig-paa-vigtigt-straede-i-mellemoesten",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -345,15 +335,40 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-20T21:15:00+02:00",
-        "formatted_time": "For 19 timer siden",
-        "image_url": null
+        "pub_date": "2026-09-11T21:46:00+02:00",
+        "formatted_time": "For 22 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/nnxhe20u\/20260910-193444-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "2097148b3228c4f0f010b203293e7b42",
-        "title": "Tysk topanklager i tiltale: Den ukrainske stat stod bag sprængningen af Nord Stream",
-        "summary": "Anklageskrift afslører nye spektakulære detaljer om angrebet på gasledningerne i Østersøen",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/tysk-topanklager-i-tiltale-den-ukrainske-stat-stod-bag-spraengningen-af-nord-stream",
+        "id": "ec6dfcf372a469a1727a9195da1c0565",
+        "title": "DR-korrespondent 25 år efter: 'Jeg kører med det samme'",
+        "summary": "For amerikanerne er 11. september også en påmindelse om frygt. USA-korrespondent Kim Bildsøe oplevede selv angrebet i 2001.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/dr-korrespondent-25-aar-efter-jeg-koerer-med-det-samme",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-11T21:10:00+02:00",
+        "formatted_time": "For 22 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/twenlevy\/20260911-071203-l-2601x1812ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "7809b4f064c69d64d729838847bad368",
+        "title": "Mystisk undercoveraktion på Cypern afsløret: 'Svampebob Firkant' hyrede dansk undercoveragent til at likvidere britiske tvillinger",
+        "summary": "Bagmænd udloddede 85.000 euro for at begå et dobbeltlejemord i Cypern, bekræfter cypriotisk politi overfor DR.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/mystisk-undercoveraktion-paa-cypern-afsloeret-svampe-bob-firkant-hyrede-dansk-undercoveragent-til",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -370,8 +385,8 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-08-20T20:29:48+02:00",
-        "formatted_time": "For 19 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/ojfp2z4l\/20251128-160209-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-09-11T20:03:00+02:00",
+        "formatted_time": "For 23 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/qvzhnbar\/000_was2004112585363.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     }
 ]

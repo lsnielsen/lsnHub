@@ -3,7 +3,7 @@
 
 <?php
 
-//  include __DIR__ . "/../projects/news/index.php";
+//  include __DIR__ . "/../projects/news/frontpage.php";
 
     include "../projects/news/frontpage.php";
   
