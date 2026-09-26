@@ -2,7 +2,7 @@
 
 <?php
 
-// Tving browseren til at læse filen som UTF-8, så æ, ø og å virker
+// Tving browseren til at lÃ¦se filen som UTF-8, sÃ¥ Ã¦, Ã¸ og Ã¥ virker
 header('Content-Type: text/html; charset=utf-8');
 
 // 1. STATISKE DATA FOR ABONNEMENTER
@@ -13,9 +13,9 @@ $abonnementer = [
         'kategori' => 'Internet & Telefoni',
         'original_beloeb' => 320,
         'interval' => 'mdr', // mdr, hver_2_mdr, kvartal, halvaar, aar
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://login.yousee.dk',
-        'beskrivelse' => 'Hurtigt bredbåndsinternet til boligen',
+        'beskrivelse' => 'Hurtigt bredbÃ¥ndsinternet til boligen',
         'betalingsmetode' => 'Betalingsservice'
     ],
     [
@@ -24,7 +24,7 @@ $abonnementer = [
         'kategori' => 'Internet & Telefoni',
         'original_beloeb' => 100,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://www.callme.dk/selvbetjening',
         'beskrivelse' => 'Mobilabonnement med fri tale og data',
         'betalingsmetode' => 'Kreditkort'
@@ -35,7 +35,7 @@ $abonnementer = [
         'kategori' => 'Software & AI',
         'original_beloeb' => 800,
         'interval' => 'aar',
-        'interval_tekst' => 'Årligt (800 kr./år)',
+        'interval_tekst' => 'Ã…rligt (800 kr./Ã¥r)',
         'hjemmeside' => 'https://one.google.com',
         'beskrivelse' => 'Gemini Advanced AI model & Google One lagerplads',
         'betalingsmetode' => 'Kreditkort'
@@ -48,7 +48,7 @@ $abonnementer = [
         'interval' => 'kvartal',
         'interval_tekst' => 'Kvartalsvist (1.900 kr./kvartal)',
         'hjemmeside' => 'https://www.vestforsyning.dk',
-        'beskrivelse' => 'Fjernvarme i Holstebro området',
+        'beskrivelse' => 'Fjernvarme i Holstebro omrÃ¥det',
         'betalingsmetode' => 'Betalingsservice'
     ],
     [
@@ -66,11 +66,11 @@ $abonnementer = [
         'id' => 'holstebro-musikskole',
         'navn' => 'Holstebro Musikskole',
         'kategori' => 'Fritid & Uddannelse',
-        'original_beloeb' => 2100,
-        'interval' => 'hver_2_mdr',
-        'interval_tekst' => 'Hver 2. måned (2.100 kr.)',
+        'original_beloeb' => 700,
+        'interval' => 'mdr',
+        'interval_tekst' => '4 gange om Ã¥ret, 1900 kr.)',
         'hjemmeside' => 'https://holstebromusikskole.dk',
-        'beskrivelse' => 'Musikundervisning og sæsonkontingent',
+        'beskrivelse' => 'Musikundervisning og sÃ¦sonkontingent',
         'betalingsmetode' => 'Betalingsservice'
     ],
     [
@@ -79,7 +79,7 @@ $abonnementer = [
         'kategori' => 'Nyheder & Medier',
         'original_beloeb' => 1800,
         'interval' => 'aar',
-        'interval_tekst' => 'Årligt (1.800 kr./år)',
+        'interval_tekst' => 'Ã…rligt (1.800 kr./Ã¥r)',
         'hjemmeside' => 'https://jyllands-posten.dk/selvbetjening/abonnement/oversigt',
         'beskrivelse' => 'Digitalt avisabonnement og nyhedsoverblik',
         'betalingsmetode' => 'Kreditkort'
@@ -90,7 +90,7 @@ $abonnementer = [
         'kategori' => 'Nyheder & Medier',
         'original_beloeb' => 179,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://www.berlingske.dk/abonnement',
         'beskrivelse' => 'Digital adgang til nyheder og analyser (vejledende pris)',
         'betalingsmetode' => 'Kreditkort'
@@ -101,9 +101,9 @@ $abonnementer = [
         'kategori' => 'Medlemskaber & Foreninger',
         'original_beloeb' => 400,
         'interval' => 'aar',
-        'interval_tekst' => 'Årligt (400 kr./år)',
+        'interval_tekst' => 'Ã…rligt (400 kr./Ã¥r)',
         'hjemmeside' => 'https://liberalalliance.membersite.dk/Home/MyInvoices',
-        'beskrivelse' => 'Årligt partikontingent og medlemskab',
+        'beskrivelse' => 'Ã…rligt partikontingent og medlemskab',
         'betalingsmetode' => 'Kreditkort'
     ],
     [
@@ -112,20 +112,20 @@ $abonnementer = [
         'kategori' => 'Medlemskaber & Foreninger',
         'original_beloeb' => 100,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://pinsekirken-holstebro.dk',
-        'beskrivelse' => 'Fast månedligt bidrag og kirkekontingent',
-        'betalingsmetode' => 'Bankoverførsel'
+        'beskrivelse' => 'Fast mÃ¥nedligt bidrag og kirkekontingent',
+        'betalingsmetode' => 'BankoverfÃ¸rsel'
     ],
     [
         'id' => 'bodyfit',
         'navn' => 'Bodyfit',
-        'kategori' => 'Sundhed & Træning',
+        'kategori' => 'Sundhed & TrÃ¦ning',
         'original_beloeb' => 180,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://bodyfit.dk',
-        'beskrivelse' => 'Fitnesscenter medlemskab og træning',
+        'beskrivelse' => 'Fitnesscenter medlemskab og trÃ¦ning',
         'betalingsmetode' => 'Betalingsservice'
     ],
     [
@@ -134,9 +134,9 @@ $abonnementer = [
         'kategori' => 'Bolig & Husleje',
         'original_beloeb' => 2200,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://www.prosedo.dk',
-        'beskrivelse' => 'Månedlig boligafgift og fællesudgifter til forening',
+        'beskrivelse' => 'MÃ¥nedlig boligafgift og fÃ¦llesudgifter til forening',
         'betalingsmetode' => 'Betalingsservice'
     ],
     [
@@ -145,7 +145,7 @@ $abonnementer = [
         'kategori' => 'Forsikring',
         'original_beloeb' => 3500,
         'interval' => 'aar',
-        'interval_tekst' => 'Årligt (3.500 kr./år)',
+        'interval_tekst' => 'Ã…rligt (3.500 kr./Ã¥r)',
         'hjemmeside' => 'https://www.vestjyskforsikring.dk',
         'beskrivelse' => 'Indbo-, ulykke- og familieforsikring',
         'betalingsmetode' => 'Betalingsservice'
@@ -156,7 +156,7 @@ $abonnementer = [
         'kategori' => 'Streaming & Underholdning',
         'original_beloeb' => 160,
         'interval' => 'mdr',
-        'interval_tekst' => 'Månedligt',
+        'interval_tekst' => 'MÃ¥nedligt',
         'hjemmeside' => 'https://viaplay.dk/account',
         'beskrivelse' => 'Film, serier og underholdning',
         'betalingsmetode' => 'Kreditkort'
@@ -216,7 +216,7 @@ $totalKvartal = $totalMaaned * 3;
 $totalDag = $totalAar / 365;
 $antalAbonnementer = count($abonnementer);
 
-// Sorter kategorier efter størst forbrug
+// Sorter kategorier efter stÃ¸rst forbrug
 arsort($kategoriTotaler);
 
 

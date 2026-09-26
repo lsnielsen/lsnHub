@@ -1,274 +1,9 @@
 [
     {
-        "id": "571384a0cf6ac2f5661c8f3b903abe2e",
-        "title": "Lettere adoption for homoseksuelle i Ungarn ser ud til at vende tilbage",
-        "summary": "Viktor Orbán gjorde det i sin tid meget svært for homoseksuelle at adoptere.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/lettere-adoption-homoseksuelle-i-ungarn-ser-ud-til-vende-tilbage",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-12T17:14:59+02:00",
-        "formatted_time": "For 2 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/1umccu1i\/20260910-162812-2_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "c47f71927788008d8f8682bc2a2e276b",
-        "title": "Kommer AfD's stjernestøv til at miste sin glans, hvis partiet kommer i regering? Det spørgsmål splitter Tyskland lige nu",
-        "summary": "Mens nogle råber vagt i gevær over en mulig regering med AfD i Sachsen-Anhalt, så siger andre: Lad dem da prøve.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/kommer-afd-s-stjernestoev-til-miste-sin-glans-hvis-partiet-kommer-i-regering-det-spoergsmaal",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Tyskland",
-                "code": "DE",
-                "flag": "🇩🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T17:00:00+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/hc5lye40\/20260910-130726-6.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "05deb491fb17c53588395d4836eb7889",
-        "title": "Trump vil gerne have Irland og Nordirland genforenet: 'Det sker jo før eller siden'",
-        "summary": "Trump er på besøg ved den irske statsminister. Med sig havde han en idé, som ikke vakte begejstring i hverken Irland eller Storbritannien.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/trump-vil-gerne-have-irland-og-nordirland-genforenet-det-sker-jo-foer-eller-siden",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            },
-            {
-                "name": "Storbritannien",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-12T16:34:59+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/vg2pn2sl\/20260912-123218-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "865304f586b34d57ce47bc1ed8490cb1",
-        "title": "Næsten 200 hektar fyrreskov brændt i Bulgarien",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/naesten-200-hektar-fyrreskov-braendt-i-bulgarien",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-12T15:26:24+02:00",
-        "formatted_time": "For 4 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "df0aeb2f809078c2b10d17edbb4d4d34",
-        "title": "Ekspert: På mandag er der møde i Oman, og det kommer du til at kunne mærke",
-        "summary": "Mandag mødes Mellemøstens olieproducerende lande til et møde i Oman. Går det godt, kan det blive billigere for danskerne. Går det skidt, kan det blive dyrere.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/ekspert-paa-mandag-er-der-moede-i-oman-og-det-kommer-du-til-kunne-maerke",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-12T14:15:00+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/fbmbiqsy\/20260911-182037-7.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "fdd7f5036c46ec1d3878982d09811314",
-        "title": "Norge vil slukke for Facebook og Instagram om natten",
-        "summary": "Der er ikke noget, der tyder på, at tiltagene også er på vej til at blive indført i Danmark.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/norge-vil-slukke-facebook-og-instagram-om-natten",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "Norge",
-                "code": "NO",
-                "flag": "🇳🇴"
-            }
-        ],
-        "pub_date": "2026-09-12T14:03:01+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/qixhnplm\/20260615-225215-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "41f2e533e871aff67a66f7d8c9ab29f9",
-        "title": "ANALYSE Hun blev kaldt 'bitch' og 'forræder' - nu kan hun måske afgøre udfaldet af det svenske valg",
-        "summary": "Simona Mohamsson står i spidsen for Liberalerne, der kæmper for sin overlevelse. Hun er en af svensk politiks mest omstridte personer – og forudsætningen for en mulig borgerlig regering efter valget.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/analyse-hun-blev-kaldt-bitch-og-forraeder-nu-kan-hun-maaske-afgoere-udfaldet-af-det-svenske-valg",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T13:45:00+02:00",
-        "formatted_time": "For 6 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/lp3nkz2m\/20260313-153601-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "426597b6b01d382cf1f4d8ee5048f823",
-        "title": "Kan AI slå os alle ihjel - eller er det sci-fi?",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/drlyd\/reels\/kan-ai-slaa-os-alle-ihjel-eller-er-det-sci-fi",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-12T08:02:00+02:00",
-        "formatted_time": "For 12 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "8a0f4df2568265c2ea09dc2a324efec4",
-        "title": "Hård sidste debat: 'I har lukket had ind i landet'",
-        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/haard-sidste-debat-i-har-lukket-had-ind-i-landet",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-12T06:48:13+02:00",
-        "formatted_time": "For 13 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "c219c1b797e40ac58d4eef8429d74f28",
-        "title": "Morgenpost fra Sverige: 'Hulken' vil 'knuse' vælgernes måske største problem. Løsningen har hun fundet over sundet",
-        "summary": "Vicestatsministerens vigtigste valgløfte, der skal gøre det af med de lange ventelister på sygehusene, er direkte inspireret af Danmark.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/morgenpost-fra-sverige-hulken-vil-knuse-vaelgernes-maaske-stoerste-problem-loesningen-har-hun",
-        "source_id": "dr-udland",
-        "source_name": "DR Udland",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T06:20:00+02:00",
-        "formatted_time": "For 13 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/44afwjtw\/top-ebba-busch.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
-    },
-    {
-        "id": "64b8965aab0e83025a6d6fed78b9ff76",
-        "title": "Vigtig saudisk olierørledning ramt af droneangreb fra Irak",
-        "summary": "Saudi-Arabiens vigtige East-West-olierørledning måtte indstille driften efter flere angreb. Nu har Irak lukket en grænseovergang til Iran og indledt en omfattende jagt på gerningsmændene.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/vigtig-saudisk-olieroerledning-ramt-af-droneangreb-fra-irak",
+        "id": "6271a45daec87781feacf22d3c2b0be2",
+        "title": "Amerikansk repræsentant forlod salen under Irans præsidents tale",
+        "summary": "Den amerikanske repræsentant forlod salen ved FNs generalforsamling, kort efter Irans præsident havde vist billeder af børn, der blev dræbt i et angreb på en skole i Iran.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/amerikansk-repraesentant-forlod-salen-under-irans-praesidents-tale",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -285,15 +20,15 @@
                 "flag": "🇮🇱"
             }
         ],
-        "pub_date": "2026-09-12T03:31:02+02:00",
-        "formatted_time": "For 16 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/c02pw15s\/20260911-115952-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-09-23T17:19:31+02:00",
+        "formatted_time": "For 14 min. siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/v4ncsxwu\/20260923-165718-2_crop001_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "85e06dc8fb3760be0004d1717c94080e",
-        "title": "USA mindes 11. september på 25-årsdagen",
+        "id": "26e696b5e462dd9e3426edf387d661ee",
+        "title": "Kan vi stole på USA?",
         "summary": "Klik for at læse den fulde artikel hos DR Udland.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/usa-mindes-25-aarsdagen-11-september",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/kan-vi-stole-paa-usa",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -310,15 +45,290 @@
                 "flag": "🇺🇸"
             }
         ],
-        "pub_date": "2026-09-11T22:06:46+02:00",
+        "pub_date": "2026-09-23T17:08:00+02:00",
+        "formatted_time": "For 26 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "e809a9fb182909aa199ac808408a7066",
+        "title": "Dolly Partons nevø anklages for afpresning af dødsbo",
+        "summary": "Manager anmoder om tilhold efter anklager om afpresning og trusler mod Dolly Partons brand.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/dolly-partons-nevoe-anklages-afpresning-af-doedsbo",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-23T15:28:05+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/k3lbspxq\/20251008-205613-5.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "01b0f32b1ce084a4d0e5c831e53aab32",
+        "title": "15 mænd idømt livstid for dødeligt terrorangreb i Sri Lanka",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/15-maend-idoemt-livstid-doedeligt-terrorangreb-i-sri-lanka",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-23T15:15:00+02:00",
+        "formatted_time": "For 2 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "c0d716693b4fe5ae5305ab79d59b5e20",
+        "title": "Mens alle havde fokus på Grønland, var det en helt anden Trump-udtalelse, der vakte opsigt verden over",
+        "summary": "Først truede Trump Iran fra FN's talerstol. Bagefter gav han en tidshorisont på en aftale.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/mens-alle-havde-fokus-paa-groenland-var-det-en-helt-anden-trump-udtalelse-der-vakte-opsigt-verden",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            },
+            {
+                "name": "Mellemøsten & Gaza",
+                "code": "IL",
+                "flag": "🇮🇱"
+            },
+            {
+                "name": "Grønland",
+                "code": "GL",
+                "flag": "🇬🇱"
+            }
+        ],
+        "pub_date": "2026-09-23T14:15:00+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/cidhq0fq\/20260922-165401-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "7826a3a849530a1f92c75cf34b6cf3c9",
+        "title": "Trump vil give kunstig intelligens et nyt navn",
+        "summary": "Mens Grønland-aftalen løb med det meste af den danske opmærksomhed i går, skete der også andre ting på FN's generalforsamling.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/trump-vil-give-kunstig-intelligens-et-nyt-navn",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            },
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            },
+            {
+                "name": "Grønland",
+                "code": "GL",
+                "flag": "🇬🇱"
+            }
+        ],
+        "pub_date": "2026-09-23T13:45:00+02:00",
+        "formatted_time": "For 3 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/2yvfl4gt\/20260922-165521-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "505344e138a8cfe871f5098490e1b66e",
+        "title": "Ansigt på omdiskuteret internettrend tiltalt for voldtægt i USA",
+        "summary": "Influenceren Clavicular er blevet tiltalt for voldtægt af en 17-årig pige. Han risikerer 20 års fængsel.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/ansigt-paa-omdiskuteret-internettrend-tiltalt-voldtaegt-i-usa",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-23T08:39:24+02:00",
+        "formatted_time": "For 8 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/zuyjarbt\/20260722-174029-4_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "77b6ef8bf7368280d9815e62017b89df",
+        "title": "Frankrig undersøger brug af intelligente briller til at filme kvinder",
+        "summary": "Fransk anklagemyndighed har indledt undersøgelser efter klager over krænkelser fra brug af AI-briller.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/frankrig-undersoeger-brug-af-intelligente-briller-til-filme-kvinder",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
+            }
+        ],
+        "pub_date": "2026-09-23T07:06:11+02:00",
+        "formatted_time": "For 10 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/1jlps3kh\/20260922-120054-2_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "6daf550785e76dc027d5fea91cc45164",
+        "title": "Countrystjerne slår 'All I Want for Christmas Is You'-rekord",
+        "summary": "Hittet 'Choosin' Texas' har med 23 uger som nummer et på Billboard Hot 100 slået rekord fra Mariah Carey.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/countrystjerne-slaar-all-i-want-christmas-is-you-rekord",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-23T06:59:03+02:00",
+        "formatted_time": "For 10 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/5isk00kb\/20260518-035159-3_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "caa37b354877d4f51c2e17c4bc74f04b",
+        "title": "Trump så på pressen, og så brød råbene løs",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/trump-saa-paa-pressen-og-saa-broed-raabene-loes",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-09-23T06:58:31+02:00",
+        "formatted_time": "For 10 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "544bc87fd2fb4e08669fbfc97c306e10",
+        "title": "Trump truer med 'meget kraftfulde' sanktioner mod Rusland: 'Hvis det bliver nødvendigt'",
+        "summary": "Den amerikanske præsident leverede flere slet skjulte stikpiller til sit russiske modstykke, Vladimir Putin, under den diplomatiske samling i FN tirsdag.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/trump-truer-med-meget-kraftfulde-sanktioner-mod-rusland-hvis-det-bliver-noedvendigt",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            },
+            {
+                "name": "Rusland",
+                "code": "RU",
+                "flag": "🇷🇺"
+            }
+        ],
+        "pub_date": "2026-09-22T22:52:36+02:00",
+        "formatted_time": "For 18 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/ohzlxko4\/20260922-195931-7_crop001.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "5dbba0d15a9f6aa756b8bc37b647ffc0",
+        "title": "Cuba udvandrer fra Trumps tale i FN",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/cuba-udvandrer-fra-trumps-tale-i-fn",
+        "source_id": "dr-udland",
+        "source_name": "DR Udland",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-09-22T19:46:00+02:00",
         "formatted_time": "For 21 timer siden",
         "image_url": null
     },
     {
-        "id": "a7e5739797ea85e7e14ea6d6e23b3efb",
-        "title": "Iransk-støttet houthi-milits sætter sig på vigtigt stræde i Mellemøsten",
-        "summary": "Kan i værste fald tvinge skibe mellem Asien og Europa til at sejle hele vejen rundt om Afrika.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/iransk-stoettet-houthi-milits-saetter-sig-paa-vigtigt-straede-i-mellemoesten",
+        "id": "022a01ef63b96c803e1fc5c946345337",
+        "title": "EU vil forlænge sanktioner men tage to russiske oligarker af liste",
+        "summary": "EU-lande er enige om at forlænge russiske sanktioner med tre år. Men \"visse personer\" tages af liste.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/eu-vil-forlaenge-sanktioner-men-tage-russiske-oligarker-af-liste",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -335,15 +345,15 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-09-11T21:46:00+02:00",
+        "pub_date": "2026-09-22T19:16:23+02:00",
         "formatted_time": "For 22 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/nnxhe20u\/20260910-193444-2.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/dz3gzwda\/20260922-122208-3.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "ec6dfcf372a469a1727a9195da1c0565",
-        "title": "DR-korrespondent 25 år efter: 'Jeg kører med det samme'",
-        "summary": "For amerikanerne er 11. september også en påmindelse om frygt. USA-korrespondent Kim Bildsøe oplevede selv angrebet i 2001.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/dr-korrespondent-25-aar-efter-jeg-koerer-med-det-samme",
+        "id": "053afa0f791d2ea7317c7d18128ae651",
+        "title": "Se kortet: Her vil USA etablere to nye baser i Grønland",
+        "summary": "Med de to nye placeringer vil USA i alt have tre militærbaser i Grønland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/se-kortet-her-vil-usa-etablere-nye-baser-i-groenland",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -358,17 +368,22 @@
                 "name": "USA",
                 "code": "US",
                 "flag": "🇺🇸"
+            },
+            {
+                "name": "Grønland",
+                "code": "GL",
+                "flag": "🇬🇱"
             }
         ],
-        "pub_date": "2026-09-11T21:10:00+02:00",
-        "formatted_time": "For 22 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/twenlevy\/20260911-071203-l-2601x1812ma.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "pub_date": "2026-09-22T18:15:20+02:00",
+        "formatted_time": "For 23 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/fqcbtqyh\/nyebaser.gif?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     },
     {
-        "id": "7809b4f064c69d64d729838847bad368",
-        "title": "Mystisk undercoveraktion på Cypern afsløret: 'Svampebob Firkant' hyrede dansk undercoveragent til at likvidere britiske tvillinger",
-        "summary": "Bagmænd udloddede 85.000 euro for at begå et dobbeltlejemord i Cypern, bekræfter cypriotisk politi overfor DR.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/mystisk-undercoveraktion-paa-cypern-afsloeret-svampe-bob-firkant-hyrede-dansk-undercoveragent-til",
+        "id": "408c9a85060605968faafb965aa4c1db",
+        "title": "Se øjeblikket, hvor historisk aftale bliver underskrevet",
+        "summary": "Klik for at læse den fulde artikel hos DR Udland.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/udland\/reels\/se-oejeblikket-hvor-historisk-aftale-bliver-underskrevet",
         "source_id": "dr-udland",
         "source_name": "DR Udland",
         "country": "Danmark",
@@ -385,8 +400,8 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-09-11T20:03:00+02:00",
+        "pub_date": "2026-09-22T17:57:50+02:00",
         "formatted_time": "For 23 timer siden",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/qvzhnbar\/000_was2004112585363.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+        "image_url": null
     }
 ]

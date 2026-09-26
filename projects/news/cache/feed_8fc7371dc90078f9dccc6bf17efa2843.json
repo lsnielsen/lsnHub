@@ -1,9 +1,9 @@
 [
     {
-        "id": "d3d903f5519a829e74fea660ea67f542",
-        "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
-        "summary": "Över 2 800 incidentrapporter har hittills kommit in till Valmyndigheten. Majoriteten rör valsedlar som flyttats, dolts eller tagits bort. Samtidigt sprids filmer på sociala medier där saknade valsedlar beskrivs som valfusk.",
-        "link": "https:\/\/www.svt.se\/nyheter\/inrikes\/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
+        "id": "bae62a456fcafd21586b31948235bbf0",
+        "title": "Här är listan som kan rädda dig om kriget kommer",
+        "summary": "Radio, sovsäckar, vatten och kontanter. Har du det som behövs för att klara en vecka utan stöd utifrån? Myndigheten för civilt försvar vill öka förståelsen för vad som krävs av var och en i en krissituation.",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/sormland\/har-ar-listan-som-kan-radda-dig-om-kriget-kommer",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -20,15 +20,240 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T18:02:23+02:00",
+        "pub_date": "2026-09-23T17:10:09+02:00",
+        "formatted_time": "For 24 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "7a9b451eeb0fb2ecabdeadf2ed497d19",
+        "title": "Region Sörmland kräver digitala vårdgivare på mångmiljonbelopp",
+        "summary": "Region Sörmland kräver över 100 miljoner kronor från två vårdcentraler som har avtal med Min Doktor respektive Doktor24 samt tidigare även Blodtrycksdoktorn, skriver regionen i ett pressmeddelande.",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/sormland\/region-sormland-kraver-digitala-vardgivare-pa-mangmiljonbelopp",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T17:07:20+02:00",
+        "formatted_time": "For 27 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "c1d8b8884dd79e549d4a2bd656078583",
+        "title": "Hugo Larssons hektiska dygn: ”Pang-bom”",
+        "summary": "Hugo Larsson, 22, har en ny klubbadress. I somras bytte han Bundesliga mot Premier League. Och det gick fort. – Pang-bom, säger han.",
+        "link": "https:\/\/www.svt.se\/sport\/fotboll\/hugo-larssons-hektiska-dygn-pang-bom",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T17:01:12+02:00",
+        "formatted_time": "For 33 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "98a65c544abcffe64f59556d0eac8c70",
+        "title": "Orkanen Polo växer – risk för skyfall och jordskred i Mexiko",
+        "summary": "Orkanen Polo har på kort tid växt i styrka utanför Mexikos västkust. Kraftiga regn, höga vågor och hårda vindar befaras orsaka översvämningar och jordskred i Mexiko. Orkanen beskrivs som en av de kraftigaste någonsin i Stilla havet.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/orkanen-polo-vaxer-risk-for-skyfall-och-jordskred-i-mexiko",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T16:58:48+02:00",
+        "formatted_time": "For 35 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "a9cf03ffec3f4e9bec2967f988f2e300",
+        "title": "Här fångas misstänkta tjuvar på film i inlandet – polisen varnar: ”Ökad risk”",
+        "summary": "Den senaste tiden har polisen fått information om att brottslingar är ute och rekar i Västerbotten – främst i inlandet men även vid kusten. Privatpersoner har fångat misstänkta rekognoseringar på sina övervakningskameror. – Natten efter var det inbrott i samhäl...",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/vasterbotten\/har-fangas-misstankta-tjuvar-pa-film-i-inlandet-polisen-varnar-okad-risk",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T16:34:30+02:00",
+        "formatted_time": "For 59 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "e83b53c8b33ca8f7a82d8f0e3532e9a6",
+        "title": "Hjalmar Ekdal om intresset från Djurgården: ”Det fanns”",
+        "summary": "Var Hjalmar Ekdal, 27, på väg att krita på för en återkomst i Djurgården? Ett intresse från Stockholmslaget fanns i alla fall. – Hur nära det var vet jag inte riktigt, säger landslagsbacken.",
+        "link": "https:\/\/www.svt.se\/sport\/fotboll\/hjalmar-ekdal-om-intresset-fran-djurgarden-det-fanns",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T15:43:44+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": null
+    },
+    {
+        "id": "99fe646d5b18ffda9945dd8e84441781",
+        "title": "Här plöjer britten James, 31, på en åker utanför Västerås – bästa spåret vinner",
+        "summary": "För ett år sedan följde han sitt hjärta och flyttade från Storbritannien till en gård utanför Västerås. Nu var han en av debutanterna under Sevalladagens mer ovanliga tävlingsform – veteranplöjning. – Du kan mäta hela min plöjningserfarenhet i timmar, berät...",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/vastmanland\/har-plojer-britten-james-31-pa-en-aker-utanfor-vasteras-basta-sparet-vinner",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Storbritannien",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-09-23T15:41:51+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": null
+    },
+    {
+        "id": "428ca66dbb3f4f098bfc3c7744cade66",
+        "title": "Vad undrar du om valfusk? Ställ dina frågor",
+        "summary": "V-politikern Mohamed Abdukardir Ali kryssades in i riksdagen. Sedan kom uppgifter om att polisen utreder misstänkt valfusk. Hur ser reglerna kring röstningen ut och vad räknas egentligen som valfusk? Klockan 17.30 chattar Joakim Nergelius, professor i juridik. Ställ dina...",
+        "link": "https:\/\/www.svt.se\/nyheter\/inrikes\/vad-undrar-du-om-valfusk-stall-dina-fragor",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T15:36:46+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": null
+    },
+    {
+        "id": "db242ffb4f002cf8390fdedd64099dc2",
+        "title": "Nederländerna ställer upp i Eurovision 2027",
+        "summary": "Nederländerna kommer att delta i Eurovision nästa år. Så sent som i augusti i år meddelade landets deltagande tv-bolag att man inte skulle vara med, men nu låter det annorlunda, rapporterar Reuters.",
+        "link": "https:\/\/www.svt.se\/kultur\/nederlanderna-staller-upp-i-eurovision-2027",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T15:35:45+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": null
+    },
+    {
+        "id": "80724e773d22b21b45685c158a0bdcbc",
+        "title": "Dokument visar: Tre misstänkta i utredning om valfusk i Borlänge",
+        "summary": "Tre personer är misstänkta i utredningen om misstänkt valfusk i Borlänge. Det framgår av handlingar från Åklagarmyndigheten, som SVT har tagit del av. Men ingen av dem är delgiven misstanke om brott.",
+        "link": "https:\/\/www.svt.se\/nyheter\/inrikes\/dokument-visar-tre-misstankta-i-utredning-om-valfusk-i-borlange",
+        "source_id": "svt-nyheter",
+        "source_name": "SVT Nyheter",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-09-23T15:21:45+02:00",
         "formatted_time": "For 2 timer siden",
         "image_url": null
     },
     {
-        "id": "baf64e25b8abdaa972c308da75cb3f83",
-        "title": "Partiledarna om deras skämmigaste valstunt: ”Kändes ovärdigt”",
-        "summary": "Efter lördagens slutdebatt är en påfrestande period över för partiledarna. Men vad har varit jobbigast? Och vilka knep för att fiska röster skäms de mest över? – Det kändes lite ovärdigt faktiskt, säger Jimmie Åkesson (SD).",
-        "link": "https:\/\/www.svt.se\/nyheter\/inrikes\/partiledarna-om-deras-skammigaste-valstunt-kandes-ovardigt",
+        "id": "22b0f3502658659157903a616437783a",
+        "title": "Därför bullrar det över Jönköping sent på kvällen",
+        "summary": "Det var många som noterade ett ovanligt kraftigt flygbuller över Jönköpingstrakten under stora delar av tisdagskvällen. Bakom mullret låg Flygvapnet, som utnyttjade den mörka kvällen för att öva.",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/jonkoping\/darfor-bullrade-det-over-jonkoping-sent-pa-kvallen",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -45,15 +270,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T17:46:35+02:00",
+        "pub_date": "2026-09-23T15:14:14+02:00",
         "formatted_time": "For 2 timer siden",
         "image_url": null
     },
     {
-        "id": "d23bfdb88bea59dd14c488aaae6ac131",
-        "title": "Gängtoppen Haval Khalil har utlämnats till Sverige",
-        "summary": "Haval Khalil har landat i Sverige och kunde gripas av svensk polis. Han är begärd häktad misstänkt för bland annat mordförsök och beskrivs som en ”högprioriterad person”. – Nu kommer det hållas förhör under helgen, säger statsåklagare Ida Arnell.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/gangtoppen-haval-khalil-har-lamnats-ut-till-sverige",
+        "id": "6e589bd627c8064dffcc57bc1c9bf80e",
+        "title": "Recension: ”Vänsterns värsta år” av Erik Helmerson",
+        "summary": "Journalisten och ledarskribenten Erik Helmersons ”Vänsterns värsta år” är en uppgörelse med 2010-talets tidsanda och det han kallar ”woke”. Trivsam läsning för den som håller med, tycker Kulturnyheternas kritiker Per Andersson.",
+        "link": "https:\/\/www.svt.se\/kultur\/recension-vansterns-varsta-ar-av-erik-helmerson",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -70,40 +295,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T14:41:21+02:00",
-        "formatted_time": "For 5 timer siden",
+        "pub_date": "2026-09-23T15:01:50+02:00",
+        "formatted_time": "For 2 timer siden",
         "image_url": null
     },
     {
-        "id": "5f3b52122cecdd103d03daf70ca8ca31",
-        "title": "Tyskland: Rysk underrättelse bakom bombdrönare",
-        "summary": "Den ryska underrättelsetjänsten var med och planerade angreppet med en sprängmedelsbestyckad drönare på flygplatsen Leipzig\/Halle i augusti, enligt en rapport.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tyskland-rysk-underrattelse-bakom-bombdronare",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Tyskland",
-                "code": "DE",
-                "flag": "🇩🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T14:20:07+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "38c2d02491ff87c5e334ab85b7b51c83",
-        "title": "Flera döda i brand i syriskt fängelse",
-        "summary": "Minst sju intagna har omkommit i en brand vid ett fängelseuppror i staden Kobane i norra Syrien.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/flera-doda-i-brand-i-syriskt-fangelse",
+        "id": "0856c248b3724d94c581864e5ef54a99",
+        "title": "Länsade den obemannade butiken – nu döms kvinnorna",
+        "summary": "Två kvinnor döms för att tillsammans ha stulit varor värda minst 15 000 kronor från en obemannad självbetjäningsbutik i Horda i Värnamo kommun. Tingsrätten bedömer att stölden var planerad.",
+        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/jonkoping\/lansade-den-obemannade-butiken-nu-doms-kvinnorna",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -120,40 +320,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T14:16:00+02:00",
-        "formatted_time": "For 5 timer siden",
+        "pub_date": "2026-09-23T14:57:58+02:00",
+        "formatted_time": "For 2 timer siden",
         "image_url": null
     },
     {
-        "id": "0608c61904669496b16e16e93d994805",
-        "title": "Trump: Enat Irland vore ”fantastiskt”",
-        "summary": "Donald Trump säger att ett enat Irland vore ”fantastiskt”, under ett besök på den gröna ön.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/trump-enat-irland-vore-fantastiskt",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-12T13:53:01+02:00",
-        "formatted_time": "For 6 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "0272e4aa6a1018c01f7f2c4f41727a93",
-        "title": "Kraftig brand i spånlager i Eda kommun",
-        "summary": "En kraftig brand bröt ut under lördagsförmiddagen på ett spånlager i Köla, Eda kommun. Räddningstjänsten arbetar nu med att förhindra spridning till intilliggande byggnader.",
-        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/varmland\/brand-i-spanfabrik-i-eda",
+        "id": "476a098680a68766a71439b2a4a72349",
+        "title": "Lucas Bergvall om förlängningen: ”Mycket spekulationer”",
+        "summary": "Han ryktades lämna Tottenham. Men i stället blev Lucas Bergvall kvar – och fick förlängt kontrakt. – Jag gick på magkänslan, säger han.",
+        "link": "https:\/\/www.svt.se\/sport\/fotboll\/lucas-bergvall-om-forlangningen-mycket-spekulationer",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -170,15 +345,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T11:40:03+02:00",
-        "formatted_time": "For 8 timer siden",
+        "pub_date": "2026-09-23T14:01:51+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     },
     {
-        "id": "af9b03741d16a2ac8b178c3577d525be",
-        "title": "Byggföretag får bakläxa – arbetare riskerar att skadas",
-        "summary": "Under en inspektion av en byggarbetsplats i Jönköping upptäcktes att byggarbetarna använde vibrerande handhållna maskiner under längre perioder än vad som är tillåtet. Arbetsmiljöverket kräver nu att byggföretaget bättrar på sina rutiner.",
-        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/jonkoping\/byggforetag-far-baklaxa-arbetare-riskerar-att-skadas",
+        "id": "ca1f098c0d184b330afab99093d00d32",
+        "title": "Hugo Larsson om nobben: ”Alla vill ju spela VM”",
+        "summary": "Hugo Larsson var utanför Sveriges VM-trupp. Nu uttalar sig 22-åringen för första gången om nobben från Graham Potter. – Alla spelare vill ju spela VM och det var en besvikelse där och då, säger han.",
+        "link": "https:\/\/www.svt.se\/sport\/fotboll\/hugo-larsson-om-nobben-alla-vill-ju-spela-vm",
         "source_id": "svt-nyheter",
         "source_name": "SVT Nyheter",
         "country": "Sverige",
@@ -195,183 +370,8 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-12T11:30:02+02:00",
-        "formatted_time": "For 8 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "9b740d6be868ead33ce0f1e3bc5d7f23",
-        "title": "AIK-tränaren José Riveiro: ”Vi har ingen som kan göra det han gör”",
-        "summary": "Kevin Filling är skadad och missar resten av säsongen. Det tvingar AIK att tänka om kring vissa delar. – Vi kan inte göra exakt samma sak, förklarar tränare José Riveiro.",
-        "link": "https:\/\/www.svt.se\/sport\/fotboll\/aik-tranaren-jose-riveiro-vi-har-ingen-som-kan-gora-det-han-gor",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T10:28:00+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "0d9a57d841bb5a566752ce058a89b00b",
-        "title": "Lucas Assadis första tid i AIK: ”Alla har tagit emot mig väl”",
-        "summary": "Trots viss startsträcka med bland annat språkliga utmaningar börjar AIK:s rekordvärvning Lucas Assadi landa. – Alla har tagit emot mig väl, de pratar oftast sitt språk, men byter till engelska med mig, berättar han.",
-        "link": "https:\/\/www.svt.se\/sport\/fotboll\/lucas-assadis-forsta-tid-i-aik-alla-har-tagit-emot-mig-val",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T10:27:33+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "7ae91724d9247cb42516372c79937637",
-        "title": "Tågolycka i Frankrike: Polis misstänker sabotage",
-        "summary": "Polisen i Frankrike misstänker att sabotage ligger bakom den tågurspårning som inträffade i landets nordvästra del under fredagen, uppger en poliskälla för AFP.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tagolycka-i-frankrike-polis-misstanker-sabotage",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T10:19:52+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "9aa7869b7c1af7e45a80804f0086420b",
-        "title": "Stora skillnader i sista mätningarna inför valet 2026",
-        "summary": "Det rasslade in opinionsundersökningar under fredagen, och mätningarna visar på olika avstånd mellan blocken. I samtliga mätningar ligger Liberalerna över spärren. – Det är upplagt för en spännande valhelg, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-        "link": "https:\/\/www.svt.se\/nyheter\/inrikes\/stora-skillnader-i-sista-matningarna-infor-valet-2026",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T09:05:53+02:00",
-        "formatted_time": "For 10 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "b4b7e80650377e903a17304256ba7757",
-        "title": "Bil körde mot färdriktningen vid Hyllinge – kvinna livshotande skadad",
-        "summary": "En personbil kördes i fel färdriktning på E4 i höjd med Hyllinge under fredagsnatten. Vid trafikplats Kropp krockade den med en annan bil. En kvinna i 25-årsåldern vårdas nu på sjukhus med livshotande skador.",
-        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/helsingborg\/bil-korde-mot-fardriktningen-i-hyllinge-kvinna-allvarligt-skadad",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T07:39:29+02:00",
-        "formatted_time": "For 12 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "c3a248774f743fb81bfe19178bb0eb5c",
-        "title": "Två män till sjukhus efter bråk i centrala Karlskrona",
-        "summary": "Flera personer var under fredagsnatten inblandade i ett bråk på Borgmästaregatan i Karlskrona. Två män fick föras till sjukhus.",
-        "link": "https:\/\/www.svt.se\/nyheter\/lokalt\/blekinge\/tva-man-till-sjukhus-efter-brak-i-centrala-karlskrona",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T06:50:25+02:00",
-        "formatted_time": "For 13 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "b051a6598db8a5492a4800a63819bb70",
-        "title": "Tusentals afrikanska trollkonton tar sikte mot Sverige inför valet",
-        "summary": "600 mil bort mobiliserar en trollarmé mot Sverige. Ett samarbete mellan SVT, Trollrensics och Alliance4europe visar hur en svärm av tusentals konton baserade i afrikanska länder som Nigeria och Benin massföljer utvalda svenska användare. Enligt experter riskerar det hä...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tusentals-afrikanska-trollkonton-tar-sikte-mot-sverige-infor-valet",
-        "source_id": "svt-nyheter",
-        "source_name": "SVT Nyheter",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-12T06:31:18+02:00",
-        "formatted_time": "For 13 timer siden",
+        "pub_date": "2026-09-23T14:01:41+02:00",
+        "formatted_time": "For 3 timer siden",
         "image_url": null
     }
 ]
