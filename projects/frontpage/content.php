@@ -44,7 +44,9 @@
 
       <a href="../controller/bookPhoenix/frontpage.php" class="app-card">
         <div>
-	  <div class="card-icon">✍️</div>
+	  <div class="card-icon">
+	    &#x1F4D6;
+	  </div>
           <div class="card-title">Bogsalg</div>
 	  <div class="card-description">
 	       En dybdegående oversigt over salget af min bog,
