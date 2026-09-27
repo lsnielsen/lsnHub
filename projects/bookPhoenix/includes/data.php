@@ -1,0 +1,34 @@
+
+
+<?php
+
+
+$sales = [
+    ["amount" => 1, "dato" => '2025-09-07', "price" => 200, "buyer" => 'Maria Landa Knudsen'],
+    ["amount" => 1, "dato" => '2025-09-07', "price" => 200, "buyer" => 'Freja Hoa Viuf'],
+    ["amount" => 1, "dato" => '2025-09-07', "price" => 0,   "buyer" => 'Bedstefar'],       
+    ["amount" => 1, "dato" => '2025-09-07', "price" => 0,   "buyer" => 'Far og mor'],       
+    ["amount" => 1, "dato" => '2025-09-14', "price" => 200, "buyer" => 'Bernadett Csuros'],
+    ["amount" => 1, "dato" => '2025-09-14', "price" => 200, "buyer" => 'Christian Lorenzen'],
+    ["amount" => 1, "dato" => '2025-09-14', "price" => 200, "buyer" => 'Clifford Moses Manasseh'],
+    ["amount" => 1, "dato" => '2025-09-26', "price" => 200, "buyer" => 'Søren og Liza'],
+    ["amount" => 1, "dato" => '2025-09-26', "price" => 200, "buyer" => 'Dorte og Hans Ole'],
+    ["amount" => 1, "dato" => '2025-11-05', "price" => 0,   "buyer" => 'Rebekka'],
+    ["amount" => 1, "dato" => '2025-11-17', "price" => 200, "buyer" => 'Peder Søndertoft Jensen'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Bo og Birthe'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Thorkild og Anette'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Jens og Susan'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Lena'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Kurt'],
+    ["amount" => 1, "dato" => '2025-11-15', "price" => 200, "buyer" => 'Dorthe og Calle'],
+    ["amount" => 1, "dato" => '2025-11-30', "price" => 200, "buyer" => 'Lasse Forbæk Christensen'],
+    ["amount" => 1, "dato" => '2025-12-10', "price" => 200, "buyer" => 'Marie Søndertoft Pedersen'],
+    ["amount" => 1, "dato" => '2025-12-24', "price" => 0,   "buyer" => 'Henrik Søndertoft Nielsen'],
+    ["amount" => 1, "dato" => '2026-05-22', "price" => 0,   "buyer" => 'Pernille Søndertoft Nielsen'],
+    ["amount" => 1, "dato" => '2026-05-26', "price" => 200, "buyer" => 'Laura Friis-Jensen'],
+    ["amount" => 1, "dato" => '2026-06-13', "price" => 200, "buyer" => 'Kirsten sax-ensemble']
+];
+
+
+?>
+

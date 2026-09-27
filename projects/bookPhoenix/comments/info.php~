@@ -1,0 +1,41 @@
+<div class="journal-container">
+    <a href="insight.php" class="journal-flag flag-insights">Insights</a>
+    <a href="index.php" class="journal-flag flag-ledger">Ledger</a>
+    <a href="comments.php" class="journal-flag flag-comments">Comments</a>
+    <a href="yearly.php" class="journal-flag flag-yearly">Chronicles</a>
+
+    <h1>Reader Reflections</h1>
+    <p class="subtitle">Echoes of the story from those who journeyed through its pages</p>
+
+    <div class="comments-stream">
+        <div class="note-entry is-favorite">
+            <span class="favorite-star">★</span>
+            <p class="comment-text">"Your story felt like a warm cup of tea on a rainy afternoon. I haven't felt this connected to a character in years."</p>
+            <div class="note-meta">
+                <span class="reader-name">— Elena Vance</span>
+                <span class="note-date">January 8, 2026</span>
+            </div>
+        </div>
+
+        <div class="note-entry">
+            <p class="comment-text">"The pacing in the middle chapters was perfect. Looking forward to the next one!"</p>
+            <div class="note-meta">
+                <span class="reader-name">— Marcus Thorne</span>
+                <span class="note-date">December 28, 2025</span>
+                <span class="note-source">via Email</span>
+            </div>
+        </div>
+
+        <div class="note-entry">
+            <p class="comment-text">"Beautifully written. A true inspiration."</p>
+            <div class="note-meta">
+                <span class="reader-name">— Sarah J.</span>
+                <span class="note-date">December 15, 2025</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="action-area">
+        <a href="add_comment.php" class="add-note-btn">+ Transcribe New Note</a>
+    </div>
+</div>

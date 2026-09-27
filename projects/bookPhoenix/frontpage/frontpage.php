@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Author's Ledger</title>
+    <link rel="stylesheet">
+</head>
+
+<?php
+	include "styling.php";
+	include "db.php";
+	include "quotes.php";
+	include "info.php";
+	include "backButton.php";	
+?>
+
+
+</html>

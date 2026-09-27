@@ -1,0 +1,80 @@
+
+
+<body>
+
+<div class="journal-container">
+  <h1>
+    The Journey So Far
+  </h1>
+      
+    <a href="/bookPhoenix/controller/insight.php" class="journal-flag flag-insights">
+      View Insights
+    </a>
+    <a href="/bookPhoenix/controller/list.php" class="journal-flag flag-ledger">
+        More Insights
+    </a>
+    <a href="/bookPhoenix/controller/yearly.php" class="journal-flag flag-yearly">
+        Chronicles
+    </a>
+    <a href="/bookPhoenix/controller/comments.php" class="journal-flag flag-comments">
+        Kommentarer
+    </a>
+    <a href="/bookPhoenix/controller/picture.php" class="journal-flag flag-picture">
+        Forside
+    </a>
+    <a href="/bookPhoenix/controller/expenses.php" class="journal-flag flag-expenses">
+      Udgifter
+    </a>
+
+    <div class="big-stat">
+      <?php echo number_format($total_sold); ?>
+    </div>
+    <p style="text-align:center; margin-bottom: 30px;">
+      copies out in the world.
+    </p>
+
+    <div class="progress-box">
+        <div class="bar-bg"><div class="bar-fill"></div></div>
+        <p style="font-size: 0.8rem; margin-top: 10px; color: #888;">
+            Goal: <?php echo number_format($goal); ?> copies (<?php echo round($percent); ?>%)
+        </p>
+    </div>
+
+    <div class="history-section">
+      <span class="history-title">
+	Recent Activity
+      </span>
+        
+        <?php foreach($history_query as $row): ?>
+            <div class="history-item">
+              <span>
+		<?php echo date("M d, Y", strtotime($row['dato'])); ?>
+	      </span>
+              <span class="amount-tag">
+		+ <?php echo $row['amount']; ?> sold
+	      </span>
+            </div>
+        <?php endforeach; ?>
+        
+        <?php if (empty($sales)): ?>
+         <p style="font-size: 0.8rem; color: #aaa; font-style: italic;">
+	   No sales recorded yet.
+	 </p>
+        <?php endif; ?>
+    </div>
+
+    <form method="POST">
+        <input type="number" name="amount" value="1" min="1">
+        <button type="submit">
+	  Log Entry
+	</button>
+    </form>
+    <div class="quote-section">
+        <?php echo $random_quote; ?>
+    </div>
+</div>
+
+</body>
+
+
+

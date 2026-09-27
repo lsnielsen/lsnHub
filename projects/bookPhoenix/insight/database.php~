@@ -1,0 +1,14 @@
+
+
+
+$countQuery = $con->query("SELECT COUNT(*) as totalSale FROM minhistoriesales");
+$countData = $count_query->fetch_assoc();
+
+$avgQuery = $con->query("SELECT AVG(amount) as avgSale FROM minhistoriesales");
+$avgData = $avg_query->fetch_assoc();
+
+$bestQuery = $con->query("SELECT DATE(dato) as day, SUM(amount) as dayTotal FROM minhistoriesales GROUP BY day ORDER BY dayTotal DESC LIMIT 1");
+$bestDay = $best_day_query->fetch_assoc();
+
+
+

@@ -1,5 +1,4 @@
 
-
 <body>
 
   <header>
@@ -37,11 +36,26 @@
           <div class="card-icon">➕</div>
           <div class="card-title">Nyheder</div>
           <div class="card-description">
-	    De nyeste nyheder og brændpunkter fra hele verden
+            De nyeste nyheder og brændpunkter fra hele verden
           </div>
         </div>
         <div class="card-button">Åbn Program →</div>
-      </div>
+      </a>
+
+      <a href="../controller/bookPhoenix/frontpage.php" class="app-card">
+        <div>
+	  <div class="card-icon">✍️</div>
+          <div class="card-title">Bogsalg</div>
+	  <div class="card-description">
+	       En dybdegående oversigt over salget af min bog,
+	           <em>
+		       Min Historie - Og ulykken der fulgte med
+		   </em>.
+	       Her får du det fulde overblik over antal solgte eksemplarer og kan læse, hvad læserne siger i deres anmeldelser og kommentarer.
+          </div>
+        </div>
+        <div class="card-button">Åbn Program →</div>
+      </a>
 
     </div>
   </main>
@@ -51,6 +65,7 @@
   </footer>
 
 </body>
+
 
 
 
