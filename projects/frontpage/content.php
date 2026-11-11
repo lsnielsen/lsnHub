@@ -58,7 +58,16 @@
         </div>
         <div class="card-button">Åbn Program →</div>
       </a>
-
+      <a href="../controller/biking/frontpage.php" class="app-card">
+        <div>
+          <div class="card-icon">🚴</div>
+          <div class="card-title">Cykling</div>
+          <div class="card-description">
+            Få overblik over dine cykelture, ruter, distancer og statistikker.
+          </div>
+        </div>
+        <div class="card-button">Åbn Program →</div>
+      </a>
     </div>
   </main>
 

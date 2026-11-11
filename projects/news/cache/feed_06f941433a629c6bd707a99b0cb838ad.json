@@ -1,9 +1,59 @@
 [
     {
-        "id": "098442df2cf14cdde708d9f916cdc8fa",
-        "title": "Europæiske valgobservatører ikke inviteret til midtvejsvalget i USA",
+        "id": "c2a138d7176b614b5151c5e44e90db7a",
+        "title": "Vintertid i morgen påvirker togene - der vil være forfriskninger",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/europaeiske-valgobservatoerer-ikke-inviteret-til-midtvejsvalget-i-usa",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/vintertid-i-morgen-paavirker-togene-der-vil-vaere-forfriskninger",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-24T12:22:46+02:00",
+        "formatted_time": "For 59 min. siden",
+        "image_url": null
+    },
+    {
+        "id": "c83caaae6e5992d73b5377deef762cf7",
+        "title": "Københavns Lufthavn forventer perioder med kø i weekenden",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/koebenhavns-lufthavn-forventer-perioder-med-koe-i-weekenden",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-24T09:01:55+02:00",
+        "formatted_time": "For 4 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "95492f26fbbcc55f4d7a57b1974d1ccc",
+        "title": "USA fjerner nogle canadiske toldsatser forud for midtvejsvalget",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/usa-fjerner-nogle-canadiske-toldsatser-forud-midtvejsvalget",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -20,165 +70,15 @@
                 "flag": "🇺🇸"
             }
         ],
-        "pub_date": "2026-09-23T16:34:00+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": null
-    },
-    {
-        "id": "fe1a17c29ff97aa7139487e5dd9b60d4",
-        "title": "Ung mand stukket med kniv på Brøndbyøster Station",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/ung-mand-stukket-med-kniv-paa-broendbyoester-station",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-23T16:02:14+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": null
-    },
-    {
-        "id": "e3c038f56a16887b3b8710382b682f54",
-        "title": "Melding om fragtskib i brand i Hormuzstrædet",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/melding-om-fragtskib-i-brand-i-hormuzstraedet",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-23T15:28:42+02:00",
-        "formatted_time": "For 2 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "06f09e3455b2183806a9a2e7bf093f7b",
-        "title": "Mand død i lejlighedsbrand i Trige",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/mand-doed-i-lejlighedsbrand-i-trige",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-23T13:18:22+02:00",
-        "formatted_time": "For 4 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "23ad6472d2cd935ecb9369a0e9cacf4b",
-        "title": "Banedanmark til jernbanenaboer: Få styr på jeres træer",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/banedanmark-til-jernbanenaboer-faa-styr-paa-jeres-traeer",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-23T11:38:59+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "9937bc2503137ebde0a733a72d897e6a",
-        "title": "Storbritannien lancerer ny rumeskadrille",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/storbritannien-lancerer-ny-rumeskadrille",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Storbritannien",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T09:54:45+02:00",
-        "formatted_time": "For 7 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "c711dd49002ad208a61858a195f3bb26",
-        "title": "Styrelse lancerer nye retningslinjer for kræftpatienter med senfølger",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/styrelse-lancerer-nye-retningslinjer-kraeftpatienter-med-senfoelger",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-23T09:30:44+02:00",
+        "pub_date": "2026-10-24T04:43:18+02:00",
         "formatted_time": "For 8 timer siden",
         "image_url": null
     },
     {
-        "id": "87d4422d8ea63d4310ff6f0dbda0bd9b",
-        "title": "Storbritannien vil stille sig i spidsen for globale AI-regler",
+        "id": "4a1ed90729f17c1b3797e8d6232f56b0",
+        "title": "Syv personer meldt savnet efter bygningskollaps i Kenya",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/storbritannien-vil-stille-sig-i-spidsen-globale-ai-regler",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/syv-personer-meldt-savnet-efter-bygningskollaps-i-kenya",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -190,20 +90,70 @@
         "category": "top",
         "detected_countries": [
             {
-                "name": "Storbritannien",
-                "code": "GB",
-                "flag": "🇬🇧"
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-09-23T02:46:56+02:00",
+        "pub_date": "2026-10-23T23:28:41+02:00",
+        "formatted_time": "For 13 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "7995095ac797fad848fc3fbb19df2106",
+        "title": "Flere både og bygninger brænder på havn i Aarøsund",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/flere-baade-og-bygninger-braender-paa-havn-i-aaroesund",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T22:24:04+02:00",
         "formatted_time": "For 14 timer siden",
         "image_url": null
     },
     {
-        "id": "4a2d6d225d0528700b0de501c323e605",
-        "title": "Regeringen ophæver handicapaftale fra 2024",
+        "id": "547ec5d036e4c7576134d44a8c8712e7",
+        "title": "Macron kalder skyderi i Frankrig for racistisk terrorangreb",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/regeringen-ophaever-handicapaftale-fra-2024",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/macron-kalder-skyderi-i-frankrig-racistisk-terrorangreb",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
+            }
+        ],
+        "pub_date": "2026-10-23T20:40:30+02:00",
+        "formatted_time": "For 16 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "23cdbd4184753eb906cb23e4a2e8a060",
+        "title": "Flere myndigheders hjemmesider er midlertidigt utilgængelige",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/flere-myndigheders-hjemmesider-er-midlertidigt-utilgaengelige",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -220,15 +170,90 @@
                 "flag": "🇩🇰"
             }
         ],
-        "pub_date": "2026-09-22T20:52:24+02:00",
+        "pub_date": "2026-10-23T18:39:33+02:00",
+        "formatted_time": "For 18 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "082523aaad7aa6f5f4ef4ffcf3d01911",
+        "title": "Vandværk ude med opfordring: Kog jeres vand",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/vandvaerk-ude-med-opfordring-kog-jeres-vand",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T18:05:56+02:00",
+        "formatted_time": "For 19 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "0dc245330fd545053e7e6a1db145389b",
+        "title": "40.000 kalkuner aflives efter fund af fugleinfluenza i Slagelse Kommune",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/40-000-kalkuner-aflives-efter-fund-af-fugleinfluenza-i-slagelse-kommune",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T17:30:51+02:00",
+        "formatted_time": "For 19 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "0d5dd0e68dc2d476eba591e215c51149",
+        "title": "Blæsevejr søndag aflyser flere færgeafgange til og fra Bornholm",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/blaesevejr-soendag-aflyser-flere-faergeafgange-til-og-fra-bornholm",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T17:06:40+02:00",
         "formatted_time": "For 20 timer siden",
         "image_url": null
     },
     {
-        "id": "082431bfdad3492cb3d5695166f61ef6",
-        "title": "Svensk politiker tager pause efter mistanke om valgsvindel",
+        "id": "0c6bf8bbf2a4c17b933a076eb16fe855",
+        "title": "Mads Mikkelsen modtager fransk orden for sit kunstneriske virke",
         "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/svensk-politiker-tager-pause-efter-mistanke-om-valgsvindel",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/mads-mikkelsen-modtager-fransk-orden-sit-kunstneriske-virke",
         "source_id": "dr-nyheder",
         "source_name": "DR Nyheder",
         "country": "Danmark",
@@ -240,138 +265,118 @@
         "category": "top",
         "detected_countries": [
             {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
             }
         ],
-        "pub_date": "2026-09-22T19:31:11+02:00",
+        "pub_date": "2026-10-23T16:42:36+02:00",
+        "formatted_time": "For 20 timer siden",
+        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/wrvfhu1s\/mm.png?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
+    },
+    {
+        "id": "598d03572fe3e6cec16fc07f94e04d62",
+        "title": "Seks personer har mistet livet, og 28 er såret efter et skyderi ved en kirke i Jordan",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/seks-personer-har-mistet-livet-og-28-er-saaret-efter-et-skyderi-ved-en-kirke-i-jordan",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T16:09:57+02:00",
+        "formatted_time": "For 21 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "dd99a7b9aa592b5775f43b8980c18528",
+        "title": "Tankanlæg til helikopter øger lighed i sundhed på Bornholm",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/tankanlaeg-til-helikopter-oeger-lighed-i-sundhed-paa-bornholm",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T16:09:22+02:00",
+        "formatted_time": "For 21 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "f1c0f346667abe4915d59c6d53dea740",
+        "title": "Ukraine og Rusland udveksler 270 krigsfanger",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/ukraine-og-rusland-udveksler-270-krigsfanger",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Ukraine",
+                "code": "UA",
+                "flag": "🇺🇦"
+            },
+            {
+                "name": "Rusland",
+                "code": "RU",
+                "flag": "🇷🇺"
+            }
+        ],
+        "pub_date": "2026-10-23T15:30:06+02:00",
+        "formatted_time": "For 21 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "44316549afaa796a56cebba654aa7754",
+        "title": "Trafikstyrelsen: Øget sikkerhed i Københavns Lufthavn har ingen kobling til sikkerhedssituationen",
+        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
+        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/trafikstyrelsen-oeget-sikkerhed-i-koebenhavns-lufthavn-har-ingen-kobling-til-sikkerhedssituationen",
+        "source_id": "dr-nyheder",
+        "source_name": "DR Nyheder",
+        "country": "Danmark",
+        "country_code": "DK",
+        "flag": "🇩🇰",
+        "region": "danmark",
+        "language": "da",
+        "language_name": "Dansk",
+        "category": "top",
+        "detected_countries": [
+            {
+                "name": "Danmark",
+                "code": "DK",
+                "flag": "🇩🇰"
+            }
+        ],
+        "pub_date": "2026-10-23T14:32:43+02:00",
         "formatted_time": "For 22 timer siden",
         "image_url": null
-    },
-    {
-        "id": "6f88f466bb75331a73a448dd6386b8cd",
-        "title": "Skærpede straffe for overfald af homoseksuelle",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/skaerpede-straffe-overfald-af-homoseksuelle",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-22T17:49:55+02:00",
-        "formatted_time": "For 23 timer siden",
-        "image_url": null
-    },
-    {
-        "id": "c5c038ee56dee009b63d1650b44fb236",
-        "title": "F-16-fly styrtet ned ved amerikansk base i Tyskland",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/f-16-fly-styrtet-ned-ved-amerikansk-base-i-tyskland",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Tyskland",
-                "code": "DE",
-                "flag": "🇩🇪"
-            }
-        ],
-        "pub_date": "2026-09-22T17:01:20+02:00",
-        "formatted_time": "I går kl. 17:01",
-        "image_url": null
-    },
-    {
-        "id": "c4c25f526c1d52ced7af09bfd6dd5550",
-        "title": "Kærestepar i sag om terrorbilligelse fængslet igen",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/kaerestepar-i-sag-om-terrorbilligelse-faengslet-igen",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-22T16:50:26+02:00",
-        "formatted_time": "I går kl. 16:50",
-        "image_url": null
-    },
-    {
-        "id": "752d6c0db4ed27421d2934af79e88efd",
-        "title": "15 kendt skyldige i terrorangreb i Sri Lanka",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/15-kendt-skyldige-i-terrorangreb-i-sri-lanka",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-22T15:33:54+02:00",
-        "formatted_time": "I går kl. 15:33",
-        "image_url": null
-    },
-    {
-        "id": "8e7da248a4729e39c845399260d2ff80",
-        "title": "Brand i lejlighed på Nørrebro",
-        "summary": "Klik for at læse den fulde artikel hos DR Nyheder.",
-        "link": "https:\/\/www.dr.dk\/nyheder\/seneste\/brand-breder-sig-i-lejlighed-paa-noerrebro",
-        "source_id": "dr-nyheder",
-        "source_name": "DR Nyheder",
-        "country": "Danmark",
-        "country_code": "DK",
-        "flag": "🇩🇰",
-        "region": "danmark",
-        "language": "da",
-        "language_name": "Dansk",
-        "category": "top",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            }
-        ],
-        "pub_date": "2026-09-22T14:22:35+02:00",
-        "formatted_time": "I går kl. 14:22",
-        "image_url": "https:\/\/asset.dr.dk\/drdk\/umbraco-images\/cmzfladu\/20260922-140031-l.jpg?im=AspectCrop=(1200,675),xPosition=.5,yPosition=.5;Resize=(1200,675)&impolicy=medium"
     }
 ]

@@ -1,314 +1,9 @@
 [
     {
-        "id": "911ba43be322b8cf1baa72f464454c36",
-        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-        "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            },
-            {
-                "name": "Mellemøsten & Gaza",
-                "code": "IL",
-                "flag": "🇮🇱"
-            }
-        ],
-        "pub_date": "2026-09-23T08:12:56+02:00",
-        "formatted_time": "For 9 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/94af\/live\/1e4085d0-b714-11f1-8d21-19ad84e0e822.jpg"
-    },
-    {
-        "id": "529ef019789d6c5083fb33f0c89edf6d",
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Mellemøsten & Gaza",
-                "code": "IL",
-                "flag": "🇮🇱"
-            }
-        ],
-        "pub_date": "2026-09-23T07:02:26+02:00",
-        "formatted_time": "For 10 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/7adb\/live\/a6e48140-b717-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-        "id": "3b643b0a4243cabd3a21918ed8110779",
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T16:55:51+02:00",
-        "formatted_time": "For 38 min. siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/dd1c\/live\/f9fdfbe0-b74e-11f1-a430-4d16ee157c41.png"
-    },
-    {
-        "id": "3f7adcf8fc7aefda4c02399fc4fc14dd",
-        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-        "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Spanien",
-                "code": "ES",
-                "flag": "🇪🇸"
-            }
-        ],
-        "pub_date": "2026-09-23T14:31:31+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/3750\/live\/bcba89f0-b759-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-        "id": "0bddd216f0c85a17ef4a05370167fb35",
-        "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-        "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T14:22:53+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/a68a\/live\/f463e6c0-b75f-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-        "id": "e7ab349054f577c6fbad59db05905d00",
-        "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-        "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-23T15:34:25+02:00",
-        "formatted_time": "For 2 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/5038\/live\/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg"
-    },
-    {
-        "id": "3e2523122d5a18d1d1f58db72f683704",
-        "title": "Eleven killed in mass shooting at house in South Africa",
-        "summary": "One of those killed is believed to be a pregnant woman, police said.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T16:02:55+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/5581\/live\/0a1fdd60-b716-11f1-8d21-19ad84e0e822.jpg"
-    },
-    {
-        "id": "d3d6db6315b2d6a597cb40e13bd09d99",
-        "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-        "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T16:32:42+02:00",
-        "formatted_time": "For 1 time siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/fc15\/live\/41c899f0-b748-11f1-8846-e70401199dae.jpg"
-    },
-    {
-        "id": "2e03855be37a461d9f6abe8496a9e0bb",
-        "title": "South Sudan's president dissolves government ahead of country's first elections",
-        "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T13:16:25+02:00",
-        "formatted_time": "For 4 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2637\/live\/d2cc1bd0-b729-11f1-b6b0-f732836ccdab.jpg"
-    },
-    {
-        "id": "ee3908985c88b408a4f158a2a38c9703",
-        "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-        "summary": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T06:20:12+02:00",
-        "formatted_time": "For 11 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/e4af\/live\/c72c9a50-b703-11f1-a4bb-21add78cf97f.jpg"
-    },
-    {
-        "id": "27fbb04d819a3e73e11e1595aa56c3fe",
-        "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-        "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Storbritannien \/ Global",
-                "code": "GB",
-                "flag": "🇬🇧"
-            }
-        ],
-        "pub_date": "2026-09-23T14:24:02+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/0cbc\/live\/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-        "id": "754965dbb4fbd313d9369e36628021d9",
-        "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-        "summary": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
-        "source_id": "bbc-world",
-        "source_name": "BBC News (World)",
-        "country": "Storbritannien \/ Global",
-        "country_code": "GB",
-        "flag": "🇬🇧",
-        "region": "globalt",
-        "language": "en",
-        "language_name": "Engelsk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-23T11:48:50+02:00",
-        "formatted_time": "For 5 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/7ee5\/live\/96d03eb0-b72c-11f1-b6b0-f732836ccdab.jpg"
-    },
-    {
-        "id": "7bf3e52ad2e5fbb34a53377a553bb1d3",
-        "title": "OpenAI gives cyber defence tools to Ukraine",
-        "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+        "id": "a8f47c330f1767be6970c6e60d4fb1fc",
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -325,15 +20,40 @@
                 "flag": "🇺🇦"
             }
         ],
-        "pub_date": "2026-09-23T14:01:37+02:00",
-        "formatted_time": "For 3 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/d33f\/live\/a1cce6f0-b746-11f1-8846-e70401199dae.jpg"
+        "pub_date": "2026-10-24T13:17:35+02:00",
+        "formatted_time": "For 4 min. siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/6049\/live\/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg"
     },
     {
-        "id": "3238dd15cd68af0402b4add78b42f778",
-        "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-        "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+        "id": "65edc3bee168b01706f1d4f5995a8db0",
+        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Tyskland",
+                "code": "DE",
+                "flag": "🇩🇪"
+            }
+        ],
+        "pub_date": "2026-10-24T12:22:34+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/b513\/live\/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg"
+    },
+    {
+        "id": "904c972445a7c7a3976b084768225bd8",
+        "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+        "summary": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -350,15 +70,15 @@
                 "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-09-23T15:20:19+02:00",
-        "formatted_time": "For 2 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/6ca4\/live\/652a9c30-b73f-11f1-aa9c-3d062fa3aea7.jpg"
+        "pub_date": "2026-10-24T00:47:07+02:00",
+        "formatted_time": "For 12 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2348\/live\/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-        "id": "f3abe5aaf0002ce65ccb8c7865648a40",
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "id": "71cfbeb47bcf4c3caa052b75c7f04b2d",
+        "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+        "summary": "The children were subsequently rescued from the water, police say.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
         "source_id": "bbc-world",
         "source_name": "BBC News (World)",
         "country": "Storbritannien \/ Global",
@@ -370,13 +90,298 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Grønland",
-                "code": "GL",
-                "flag": "🇬🇱"
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
             }
         ],
-        "pub_date": "2026-09-22T23:36:55+02:00",
-        "formatted_time": "For 17 timer siden",
-        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/ad23\/live\/08b181f0-b6b6-11f1-8448-334c53ba4316.jpg"
+        "pub_date": "2026-10-24T11:45:47+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/74f9\/live\/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+    },
+    {
+        "id": "333b4689b37a691e83d0f87ab4f9e3b7",
+        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-24T01:08:23+02:00",
+        "formatted_time": "For 12 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/7667\/live\/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+        "id": "739102770cfeb0d8401e0e349a5f5243",
+        "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+        "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-24T11:46:53+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/8d0b\/live\/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg"
+    },
+    {
+        "id": "03d46650fa3ba1419836096662644c46",
+        "title": "Australian MP's condition improves after alleged car attack",
+        "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-24T03:55:15+02:00",
+        "formatted_time": "For 9 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/e656\/live\/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg"
+    },
+    {
+        "id": "e1a34b3057f128350e6c0f1ccc7d23a4",
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-10-24T02:36:47+02:00",
+        "formatted_time": "For 10 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/1860\/live\/f6b62750-cf1d-11f1-9796-954775b3a434.jpg"
+    },
+    {
+        "id": "383c4e93059cf2d48178ef3a233a789a",
+        "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+        "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-24T11:44:01+02:00",
+        "formatted_time": "For 1 time siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/2c0e\/live\/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+    },
+    {
+        "id": "9910b947503a9216d9c3c48fe822784e",
+        "title": "Trump administration sues to block certification of upcoming Alaska election",
+        "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-10-23T20:49:14+02:00",
+        "formatted_time": "For 16 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/056d\/live\/ef958c50-cef9-11f1-a7ee-733e71112503.jpg"
+    },
+    {
+        "id": "675e2a8a9a6daafb6a8202f42e017289",
+        "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+        "summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            }
+        ],
+        "pub_date": "2026-10-24T07:31:01+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/dfb8\/live\/821f0590-cf15-11f1-a568-e785d17b98ab.jpg"
+    },
+    {
+        "id": "c22a796002475642e6cabe06e5a7491d",
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Ukraine",
+                "code": "UA",
+                "flag": "🇺🇦"
+            },
+            {
+                "name": "USA",
+                "code": "US",
+                "flag": "🇺🇸"
+            },
+            {
+                "name": "Rusland",
+                "code": "RU",
+                "flag": "🇷🇺"
+            }
+        ],
+        "pub_date": "2026-10-24T09:17:44+02:00",
+        "formatted_time": "For 4 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/7099\/live\/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg"
+    },
+    {
+        "id": "55e117d86d39b8d6554dcf4706c624e1",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-23T21:46:30+02:00",
+        "formatted_time": "For 15 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/fd9e\/live\/bb37b200-cee8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+        "id": "d994052350be4e3d2a41be1c23faf42c",
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+        "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-23T17:37:07+02:00",
+        "formatted_time": "For 19 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/bbd8\/live\/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+        "id": "ea5482b50d3ee63bf5d23ae23c0baff5",
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+        "link": "https:\/\/www.bbc.co.uk\/news\/articles\/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "source_id": "bbc-world",
+        "source_name": "BBC News (World)",
+        "country": "Storbritannien \/ Global",
+        "country_code": "GB",
+        "flag": "🇬🇧",
+        "region": "globalt",
+        "language": "en",
+        "language_name": "Engelsk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Storbritannien \/ Global",
+                "code": "GB",
+                "flag": "🇬🇧"
+            }
+        ],
+        "pub_date": "2026-10-23T22:59:39+02:00",
+        "formatted_time": "For 14 timer siden",
+        "image_url": "https:\/\/ichef.bbci.co.uk\/ace\/standard\/240\/cpsprodpb\/8738\/live\/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg"
     }
 ]

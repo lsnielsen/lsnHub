@@ -1,9 +1,34 @@
 [
     {
-        "id": "98a65c544abcffe64f59556d0eac8c70",
-        "title": "Orkanen Polo växer – risk för skyfall och jordskred i Mexiko",
-        "summary": "Orkanen Polo har på kort tid växt i styrka utanför Mexikos västkust. Kraftiga regn, höga vågor och hårda vindar befaras orsaka översvämningar och jordskred i Mexiko. Orkanen beskrivs som en av de kraftigaste någonsin i Stilla havet.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/orkanen-polo-vaxer-risk-for-skyfall-och-jordskred-i-mexiko",
+        "id": "e598a3c29b90a9a420617e78fd4180dc",
+        "title": "Nordkoreas ledare Kim Jong-un besöker Kina",
+        "summary": "Kim Jong-un har anlänt till Dandong i Kina via den nyöppnade Yalubron som binder samman länderna. Han togs emot av Kinas premiärminister Li Qiang, enligt den sydkoreanska nyhetsbyrån Yonhap.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/nordkoreas-ledare-kim-jong-un-besoker-kina",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Kina",
+                "code": "CN",
+                "flag": "🇨🇳"
+            }
+        ],
+        "pub_date": "2026-10-24T08:22:18+02:00",
+        "formatted_time": "For 5 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "38f38ed0e164a7fe12d5d210085210d7",
+        "title": "Långa köer på Kastrup – tredje dagen i rad",
+        "summary": "Köerna till säkerhetskontrollen på Köpenhamns flygplats ringlar sig långa även på lördagsmorgonen, rapporterar danska TV2. Det är tredje dagen i rad som köerna varit längre än vanligt, till följd av nya säkerhetsrutiner. Flygplatsen uppger att väntetiden över...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/langa-koer-pa-kastrup-tredje-dagen-i-rad",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -20,15 +45,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-23T16:58:48+02:00",
-        "formatted_time": "For 35 min. siden",
+        "pub_date": "2026-10-24T06:24:43+02:00",
+        "formatted_time": "For 6 timer siden",
         "image_url": null
     },
     {
-        "id": "ef5012dfd5d3aaf743c975d00a9dfc40",
-        "title": "USA nekar valobservatörer under mellanårsvalet",
-        "summary": "I november ska mellanårsvalet i USA genomföras, vilket president Trump beskrivit som det viktigaste i landet historia. Nu meddelar landet att internationella valobservatörer från OSSE inte kommer att få närvara. ”Detta beslut innebär ett betydande avsteg från en et...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/usa-nekar-valobservatorer-under-mellanarsvalet",
+        "id": "b148df7419a48e65fa0c775332c856e2",
+        "title": "Tsunamivarning lyft efter skalv utanför Vanuatu",
+        "summary": "En tsunamivarning utlystes efter ett jordskalv med magnituden 6,9 utanför Vanuatu, men har nu lyfts.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/tsunamivarning-efter-skalv-utanfor-vanuatu",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -40,20 +65,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-23T15:45:52+02:00",
-        "formatted_time": "For 1 time siden",
+        "pub_date": "2026-10-24T06:08:19+02:00",
+        "formatted_time": "For 7 timer siden",
         "image_url": null
     },
     {
-        "id": "4b2dddd1063a997a217e683653e4e0e5",
-        "title": "Det här är Irans mäktiga vänner – så hjälper de till i kriget",
-        "summary": "USA:s krig mot Iran har pågått i snart sju månader, och inget slut är i sikte. Men hur kommer det sig att Iran har stått emot världens största militärmakt? Den främsta anledningen är att Iran inte står ensamt.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/det-har-ar-irans-maktiga-vanner-sa-hjalper-de-till-i-kriget",
+        "id": "d9042bd3c612f40e11f99d2e59e0c30a",
+        "title": "Hundratals skadade i Taiwan efter tyfon",
+        "summary": "500 personer har skadats i Taiwan sedan tyfonen Champi dragit fram, enligt Reuters. En person omkom efter att ha svepts bort av vågor.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/hundratals-skadade-i-taiwan-efter-tyfon",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -65,25 +90,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            },
-            {
-                "name": "Mellemøsten & Gaza",
-                "code": "IL",
-                "flag": "🇮🇱"
+                "name": "Kina",
+                "code": "CN",
+                "flag": "🇨🇳"
             }
         ],
-        "pub_date": "2026-09-23T15:14:07+02:00",
-        "formatted_time": "For 2 timer siden",
+        "pub_date": "2026-10-24T06:07:34+02:00",
+        "formatted_time": "For 7 timer siden",
         "image_url": null
     },
     {
-        "id": "2ce8d5b8da8258c2b03fd2ccfb889518",
-        "title": "EU slopar sanktioner mot ryska oligarker",
-        "summary": "Två ryska oligarker slopas från EU:s förnyade sanktionslista. Nu riktar Ukrainas president kritik mot EU. ”Inget namn finns på listan av misstag”, skriver Volodomyr Zelenskyj.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/eu-slopar-sanktioner-mot-ryska-oligarker",
+        "id": "3e7d281af88b6b576d34520d051ff5d1",
+        "title": "Här räddas föraren ur sjunkande bil – av tv-reportern",
+        "summary": "En bilist fastnade i vattenmassorna i översvämningarna i Queensland i Australien och riskerade att drunkna när fordonet sjönk ner i vattnet. Då ingrep en tv-reporter tillsammans med en förbipasserande som i sista sekunden räddade föraren.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/har-raddas-foraren-ur-sjunkande-bil-av-tv-reportern",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -95,20 +115,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Ukraine",
-                "code": "UA",
-                "flag": "🇺🇦"
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-23T14:18:26+02:00",
-        "formatted_time": "For 3 timer siden",
+        "pub_date": "2026-10-24T06:04:52+02:00",
+        "formatted_time": "For 7 timer siden",
         "image_url": null
     },
     {
-        "id": "d26b386f120db6d9341e863f37213f7f",
-        "title": "Grönlandsavtalet – vad betyder det?",
-        "summary": "Uppdaterade formuleringar, amerikanska baser och utländska investeringar är alla delar av säkerhetsavtalet mellan Grönland, Danmark och USA. – USA kommer att ha ett sista säg om vilka som kommer att få investera på Grönland, säger SVT:s utrikesreporter Regina Sved...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/gronlandsavtalet-vad-betyder-det",
+        "id": "4e3065f07d8f260d1267798baade946c",
+        "title": "Poserar bland eld och förödelse – klippet upprör världen",
+        "summary": "Ett ben från en skyltdocka, en Lego-kartong och en Counter-Strike-pokal. Maskerade män visar upp föremål framför kamerorna medan butiker plundras och en brand rasar bakom dem. SVT har kartlagt vad som hände på paradgatan i Paris den 17 oktober. – Nästan alla fönst...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/poserar-bland-eld-och-forodelse-klippet-uppror-varlden",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -120,25 +140,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
             }
         ],
-        "pub_date": "2026-09-23T13:29:25+02:00",
-        "formatted_time": "For 4 timer siden",
+        "pub_date": "2026-10-24T05:45:20+02:00",
+        "formatted_time": "For 7 timer siden",
         "image_url": null
     },
     {
-        "id": "8a826fdffc7da910bd92fe65263f7771",
-        "title": "Prinsessan Astrid förs till sista vilan",
-        "summary": "Prinsessan Astrid av Norge förs i dag till sista vilan. Ceremonin hålls i Ris kyrka i Oslo. Gravsättningen sker bara några veckor efter begravningen av hennes lillebror kung Harald.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/prinsessan-astrid-fors-till-sista-vilan",
+        "id": "601f49cb4c0ec5e0d5fc182edca40f04",
+        "title": "24 oktober: Nattens nyheter",
+        "summary": "Klik for at læse den fulde artikel hos SVT Utrikes.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/24-oktober-nattens-nyheter-x6kd5l",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -150,20 +165,20 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Norge",
-                "code": "NO",
-                "flag": "🇳🇴"
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-23T13:10:34+02:00",
-        "formatted_time": "For 4 timer siden",
+        "pub_date": "2026-10-24T05:20:16+02:00",
+        "formatted_time": "For 8 timer siden",
         "image_url": null
     },
     {
-        "id": "548f42ffb40e3b648c2b472ce3f5b830",
-        "title": "Stora protester mot nedskärningar i Tysklands bilindustri",
-        "summary": "Omkring 175 000 demonstrerade under måndagen i Tyskland. Bilindustrin pressas av svag efterfrågan och hårdnande konkurrens från Kina.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/stora-protester-mot-nedskarningar-i-tysklands-bilindustri",
+        "id": "6b6616fcf7c341638bdf789eb269d2a6",
+        "title": "Hitlers ”Örnnäste” i brand",
+        "summary": "”Örnnästet”, ett hus som byggdes åt Adolf Hitler i bergen utanför Berchtesgaden i södra Tyskland, brinner. Skadorna på huset är omfattande och det kommer sannolikt inte gå att rädda.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/hitlers-ornnaste-i-brand",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -178,22 +193,17 @@
                 "name": "Tyskland",
                 "code": "DE",
                 "flag": "🇩🇪"
-            },
-            {
-                "name": "Kina",
-                "code": "CN",
-                "flag": "🇨🇳"
             }
         ],
-        "pub_date": "2026-09-22T20:40:15+02:00",
-        "formatted_time": "For 20 timer siden",
+        "pub_date": "2026-10-23T23:27:31+02:00",
+        "formatted_time": "For 13 timer siden",
         "image_url": null
     },
     {
-        "id": "d4ab02028c3c0b612078aad609c43847",
-        "title": "Carl Bildt: ”Ukraina är inte långt bort”",
-        "summary": "Det är inte troligt att Ryssland gör något direkt militärt utspel mot Nato eller Baltikum i närtid. Skälet är att Putin just nu tvingas sätta in allt han har i Ukraina, enligt Sveriges tidigare utrikesminister Carl Bildt. – Han kan inte vinna kriget, men han kommer...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/carl-bildt-ukraina-ar-inte-langt-bort",
+        "id": "de9e46b9e19b61ad35e20932fb634a3e",
+        "title": "Här gick ammunition för tiotals miljoner upp i rök",
+        "summary": "Misstänkta sabotage mot vapenindustrin i Bulgarien slår mot Europas och Ukrainas upprustning. Här tillverkas bland annat artilleriammunition till Natoländers vapenlager. – Kostnaderna är höga och skadorna omfattande, säger Slavcho Dimiev som är anläggningschef på...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/har-gick-ammunition-for-tiotals-miljoner-upp-i-rok",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -205,20 +215,120 @@
         "category": "world",
         "detected_countries": [
             {
-                "name": "Rusland",
-                "code": "RU",
-                "flag": "🇷🇺"
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-22T20:03:50+02:00",
+        "pub_date": "2026-10-23T21:57:02+02:00",
+        "formatted_time": "For 15 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "5aa0c0d44c2fb31b438a8d97a74c625b",
+        "title": "Ukrainas motvapen i kriget: ”Används allt mer”",
+        "summary": "Du befinner dig på ett hotellrum i Kyjiv – men på mobilen står det att du är i Peru. Det är en del av den elektroniska krigföringen som märks av i Ukraina.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/ukrainas-motvapen-i-kriget-anvands-allt-mer",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-10-23T20:40:41+02:00",
+        "formatted_time": "For 16 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "7f967009a5e7942d34b2cdd56634a2cc",
+        "title": "Här kollapsar höghuset – utanför korrespondentens hotellrum",
+        "summary": "Ett tolvvåningshus i centrala Nairobi kollapsade plötsligt på fredagen. Myndigheterna befarar att människor kan vara instängda i rasmassorna. – Plötsligt började folk skrika utanför och ett stort dammoln täckte hela området, berättar SVT:s Afrikakorrespondent Jo...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/har-kollapsar-hoghuset-utanfor-korrespondentens-hotellrum",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-10-23T18:13:16+02:00",
+        "formatted_time": "For 19 timer siden",
+        "image_url": null
+    },
+    {
+        "id": "4100e51cf8a795afcd28292cfe5af357",
+        "title": "Sju ihjälskjutna i kyrka i Jordanien",
+        "summary": "Två gärningsmän ska ha öppnat eld under en begravning i den jordanska staden Hmood under fredagen. Minst sju personer har dödats och 34 skadats. Gärningsmännen befinner sig fortfarande på fri fot.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/sex-ihjalskjutna-i-begravningsattack",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Sverige",
+                "code": "SE",
+                "flag": "🇸🇪"
+            }
+        ],
+        "pub_date": "2026-10-23T15:51:15+02:00",
         "formatted_time": "For 21 timer siden",
         "image_url": null
     },
     {
-        "id": "8988b7ca6ce270b8cba5611c1cf00d0a",
-        "title": "Bildt: Ryssland kommer inte försöka ta NATO-land i närtid",
-        "summary": "Ryssland kommer inte att försöka ta territorium i ett NATO-land inom den närmaste tiden. Det bedömer tidigare statsministern och utrikesministern Carl Bildt. – Nej, det tror jag inte riktigt, säger han i Utrikesbyråns säsongspremiär på tisdagen.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/bildt-ryssland-kommer-inte-forsoka-ta-nato-land-i-nartid",
+        "id": "bc58589312580af5654bd81bf0b2bcdf",
+        "title": "Skjutning utanför Paris: ”Rasistiskt terrordåd”",
+        "summary": "Fredagens skjutning i den franska staden Trappes, väster om Paris, var ett ”rasistiskt terrordåd” enligt president Emmanuel Macron. En 39-årig man har gripits, misstänkt för att ha öppnat eld från sin bil och dödat en person och skadat fem, varav en tolvårig fli...",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/skjutning-utanfor-paris-en-dod",
+        "source_id": "svt-utrikes",
+        "source_name": "SVT Utrikes",
+        "country": "Sverige",
+        "country_code": "SE",
+        "flag": "🇸🇪",
+        "region": "norden",
+        "language": "sv",
+        "language_name": "Svensk",
+        "category": "world",
+        "detected_countries": [
+            {
+                "name": "Frankrig",
+                "code": "FR",
+                "flag": "🇫🇷"
+            }
+        ],
+        "pub_date": "2026-10-23T12:45:15+02:00",
+        "formatted_time": "I går kl. 12:45",
+        "image_url": null
+    },
+    {
+        "id": "4f11717fce886b22b414b96d26b9bec3",
+        "title": "Grekland förbjuder sociala medier för barn",
+        "summary": "Barn under 15 år förbjuds att använda sociala medier i Grekland, rapporterar nyhetsbyrån Amna. Beslutet togs av det grekiska parlamentet sent på torsdag kväll.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/grekland-forbjuder-sociala-medier-for-barn-cbmsu7",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -235,45 +345,15 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-22T17:54:45+02:00",
-        "formatted_time": "For 23 timer siden",
+        "pub_date": "2026-10-23T10:03:21+02:00",
+        "formatted_time": "I går kl. 10:03",
         "image_url": null
     },
     {
-        "id": "e4d04ede15e9db34555e7b43287e8659",
-        "title": "Grönland signerar historiskt avtal med USA",
-        "summary": "Ett säkerhetsavtal mellan Grönland, Danmark och USA har signerats.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/gronland-signerar-historiskt-avtal-med-usa",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-22T17:21:14+02:00",
-        "formatted_time": "I går kl. 17:21",
-        "image_url": null
-    },
-    {
-        "id": "1ec5aa4c13cc85261199484cf947eda0",
-        "title": "Elva skadade efter skolskjutning i Turkiet",
-        "summary": "En skjutning rapporteras ha ägt rum utanför en gymnasieskola i Manisa i västra Turkiet. Elva elever, ska ha skadats, varav två allvarligt, enligt landets justitieminister Akin Gürlek. Gärningsmannen och flera i hans familj har gripits, meddelar han vidare.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/uppgifter-om-skjutning-vid-skola-i-turkiet",
+        "id": "bd6d149a85a537bb0b265db841eef765",
+        "title": "150 000 demonstrerade mot Serbiens ledare inför valet",
+        "summary": "Omkring 150 000 demonstranter samlades på torsdagen i den serbiska huvudstaden Belgrad i en kraftsamling inför helgens parlamentsval. Den studentledda rörelsen har ett mål – att få bort det styrande partiet SNS efter 14 år vid makten.",
+        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/150-000-demonstrerade-mot-serbiens-ledare-infor-valet",
         "source_id": "svt-utrikes",
         "source_name": "SVT Utrikes",
         "country": "Sverige",
@@ -290,128 +370,8 @@
                 "flag": "🇸🇪"
             }
         ],
-        "pub_date": "2026-09-22T08:16:05+02:00",
-        "formatted_time": "I går kl. 08:16",
-        "image_url": null
-    },
-    {
-        "id": "eb003ae083ae51bc5e08906326ff9d3b",
-        "title": "Världsledarna samlas i New York – tunga möten på rad",
-        "summary": "I dag inleds den årliga debatten i FN:s generalförsamling. Flera tunga möten väntar med Ukraina, Danmark, Grönland och Iran på plats i New York. – Donald Trump väntas träffa Zelenskyj, ett möte Ukraina verkligen velat få till, säger Carl Fridh Kleberg, USA-korre...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/varldsledarna-samlas-i-new-york-tunga-moten-pa-rad",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Ukraine",
-                "code": "UA",
-                "flag": "🇺🇦"
-            },
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            },
-            {
-                "name": "Mellemøsten & Gaza",
-                "code": "IL",
-                "flag": "🇮🇱"
-            }
-        ],
-        "pub_date": "2026-09-22T07:34:27+02:00",
-        "formatted_time": "I går kl. 07:34",
-        "image_url": null
-    },
-    {
-        "id": "954c362617d78614b4d2eb0542404cb2",
-        "title": "Ryter ifrån mot CNN: ”Borde inte vara här”",
-        "summary": "Donald Trump har portat tre stora mediebolag från Vita huset. Det har lett till att Trump-administrationen stämts och att flera andra mediebolag, däribland Fox, valt att bojkotta. Nu lanserar Vita huset den egna kanalen ”Trump TV”, som dygnet runt bara ska visa klipp ...",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/efter-vita-husets-portning-av-medier-startar-trump-tv",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-22T07:28:52+02:00",
-        "formatted_time": "I går kl. 07:28",
-        "image_url": null
-    },
-    {
-        "id": "dcff7a1f2afda4f84dd57e4aa35e1486",
-        "title": "Källor: USA planerar nya baser på Grönland",
-        "summary": "USA vill öppna två nya militärbaser på Grönland, erfar Danmarks radio. Uppgifterna kommer inför att USA, Grönland och Danmark väntas underteckna ett nytt säkerhetsavtal för ön på tisdagen.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/kallor-usa-planerar-nya-baser-pa-gronland",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Danmark",
-                "code": "DK",
-                "flag": "🇩🇰"
-            },
-            {
-                "name": "USA",
-                "code": "US",
-                "flag": "🇺🇸"
-            }
-        ],
-        "pub_date": "2026-09-22T04:12:37+02:00",
-        "formatted_time": "I går kl. 04:12",
-        "image_url": null
-    },
-    {
-        "id": "cff9094d636bf17796a1a07868bf4043",
-        "title": "Ny kattart upptäckt i Bolivia",
-        "summary": "En liten vildkatt från Bolivia har visat sig vara en helt egen art, rapporterar flera medier. Det är första gången på mer än 100 år som en ny kattart upptäcks.",
-        "link": "https:\/\/www.svt.se\/nyheter\/utrikes\/ny-kattart-upptackt-i-bolivia",
-        "source_id": "svt-utrikes",
-        "source_name": "SVT Utrikes",
-        "country": "Sverige",
-        "country_code": "SE",
-        "flag": "🇸🇪",
-        "region": "norden",
-        "language": "sv",
-        "language_name": "Svensk",
-        "category": "world",
-        "detected_countries": [
-            {
-                "name": "Sverige",
-                "code": "SE",
-                "flag": "🇸🇪"
-            }
-        ],
-        "pub_date": "2026-09-21T17:53:53+02:00",
-        "formatted_time": "I går kl. 17:53",
+        "pub_date": "2026-10-23T04:42:02+02:00",
+        "formatted_time": "I går kl. 04:42",
         "image_url": null
     }
 ]
