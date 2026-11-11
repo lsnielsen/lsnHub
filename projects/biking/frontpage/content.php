@@ -4,7 +4,7 @@
   <main>
     <div class="app-grid">
 
-      <a href="biking_trips.php" class="app-card">
+      <a href="bikeList.php" class="app-card">
         <div>
           <div class="card-icon">📋</div>
           <div class="card-title">Alle Ture</div>
